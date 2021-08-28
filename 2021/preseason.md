@@ -57,7 +57,7 @@ It's all overs, now.
 
 ## B1G West
 
-Earlier: "I don't care for the West"
+I don't care for the West
 
 ### Illinois
 * Line: 3.5
