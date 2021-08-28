@@ -1,3 +1,5 @@
-# 2021 Season Status
+# 2021 Season Tracker
 
+## Futures
 
+## Week 0
