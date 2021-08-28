@@ -1,8 +1,12 @@
 # Week 0
 
-## Nebraska @ Illinois
+## B1G Games
+
+### Nebraska @ Illinois
 * Point spread: ILL +7 @ -122
 * Score prediction: ILL 28, NEB 24
+* Status: 
+* Payout: 
 
 This game is going to be electric in all the wrong ways: ~~It’s not in America~~ it is being played in Champagne, Illinois. One team is under NCAA investigation and being led by a coach on a seat so hot you’d think it belonged to Jimes Frankbaugh. The other team is at peak optimism--a new, incredibly wide, coach with a good track record for building strong, corn-fed football teams.
 
