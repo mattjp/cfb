@@ -87,6 +87,12 @@ If the prop is available, I would bet that the first touchdown will not be score
 * Status: 
 * Payout: 
 
+### Alabama @ Miami (FL)
+* **Point spread:**
+* **Score prediction:**
+* **Status:**
+* **Payout:**
+
 ### Notre Dame @ Florida State
 * Point spread: `ND -9.5`
 * Score prediction: `ND 28, FSU 17`

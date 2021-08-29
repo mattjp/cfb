@@ -16,9 +16,9 @@
 | Ohio State     | `Over 11.5 @ +130` | `0-0` | ❌ | -1u |
 | Penn State     | `Over 8.5 @ -125`  | `0-0` | ❌ | -1u |
 | Purdue         | `Under 5.5 @ -104` | `0-0` | ❌ | -1u |
-| Rutgers        | `Over 4.5 @ +105`  | `0-0` | ❌ | 0u  |
+| Rutgers        | `Over 4.5 @ +105`  | `0-0` | ❌ | -1u |
 | Wisconsin      | `Over 9.5 @ -105`  | `0-0` | ❌ | -1u |
-| | | | | -13u |
+| | | | | -14u |
 
 ## Week 0
 
@@ -30,17 +30,18 @@
 ## Week 1
 | Game | Point Spread | Final Score | Status | Payout |
 | :--- | :----------- | :---------: | :----: | :----: |
-| TMPL @ RUT | `RUT -13 @ -123`  | | ❌ | -1u |
-| OSU @ MINN | `OSU -13.5 @ -114`| | ❌ | -1u |
-| MSU @ NW   | `MSU +3 @ -104`   | | ❌ | -1u |
-| WMU @ MICH | `WMU +17 @ -111`  | | ❌ | -1u |
-| PSU @ WISC | `WISC -5 @ -110`  | | ❌ | -1u |
-| WVU @ MD   | `WVU -3 @ -115`   | | ❌ | -1u |
-| IND @ IOWA | `IOWA -3 @ -114`  | | ❌ | -1u |
-| OSU @ PUR  |  | | | |
-| UGA @ CLEM | `CLEM -3 @ -115`  | | ❌ | -1u |
-| ND @ FSU   |  | | | |
-| BYU @ AZ   |  | | | |
-| | | | | -8u |
+| TMPL @ RUT | `RUT -13 @ -123`   | | ❌ | -1u |
+| OSU @ MINN | `OSU -13.5 @ -114` | | ❌ | -1u |
+| MSU @ NW   | `MSU +3 @ -104`    | | ❌ | -1u |
+| WMU @ MICH | `WMU +17 @ -111`   | | ❌ | -1u |
+| PSU @ WISC | `WISC -5 @ -110`   | | ❌ | -1u |
+| WVU @ MD   | `WVU -3 @ -115`    | | ❌ | -1u |
+| IND @ IOWA | `IOWA -3 @ -114`   | | ❌ | -1u |
+| OSU @ PUR  | `PUR -7 @ -103`    | | ❌ | -1u |
+| UGA @ CLEM | `CLEM -3 @ -115`   | | ❌ | -1u |
+| AL @ MIA   | `AL -18 @ -106`    | | ❌ | -1u |
+| ND @ FSU   | `ND -7 @ -114`     | | ❌ | -1u |
+| BYU @ AZ   | `BYU -12.5 @ -105` | | ❌ | -1u |
+| | | | | -12u |
 
 
