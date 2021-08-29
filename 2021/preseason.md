@@ -4,7 +4,7 @@
 
 ## B1G East
 
-It's all overs, now.
+_It's all overs, now._
 
 ### Indiana
 * **Line:** 7.5
@@ -57,7 +57,7 @@ It's all overs, now.
 
 ## B1G West
 
-I don't care for the West.
+_I don't care for the West._
 
 ### Illinois
 * **Line:** 3.5
