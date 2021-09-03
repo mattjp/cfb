@@ -61,6 +61,12 @@ If the prop is available, I would bet that the first touchdown will not be score
 * **Status:** 
 * **Payout:** 
 
+### UTSA @ Illinois
+* **Point spread:** `ILL -4.5 @ -110`
+* **Score prediction:** `UTSA 17, ILL 28`
+* **Status:** 
+* **Payout:** 
+
 ### West Virginia @ Maryland
 * **Point spread:** `WVU -3 @ -115`
 * **Score prediction:** `WVU 28, MD 17`
