@@ -5,16 +5,16 @@
 ### Temple @ Rutgers
 * **Point spread:** `RUT -13 @ -123`
 * **Score prediction:** `TMPL 7, RUT 24`
-* **Status:** 
-* **Payout:** 
+* **Status:** ⛈️
+* **Payout:** `0u`
 
 Boy howdy, I have nothing to say about this game, other than it’s a must-win for the Scarlet Knights. Rutgers by 2 touchdowns is a scary spread, but consider this: Temple is not favored to beat Rutgers, yes that Rutgers, by 2 touchdowns. Schiano is going to continue to make them better, and that starts by winning the games you’re supposed to win. A big man once said, you make money by betting on bad teams (but not Temple).
 
 ### Ohio State @ Minnesota
 * **Point spread:** `OSU -13.5 @ -114`
 * **Score prediction:** `OSU 56, MINN 21`
-* **Status:** 
-* **Payout:** 
+* **Status:** ✅
+* **Payout:** `+1.9u`
 
 This game is free money. 
 
@@ -31,8 +31,8 @@ Anyway, this game is over before it starts, bet the farm on OSU covering.
 ### Michigan State @ Northwestern
 * **Point spread:** `MSU +3 @ -104`
 * **Score prediction:** `MSU 20, NW 17` or `MSU 17, NW 20`
-* **Status:** 
-* **Payout:** 
+* **Status:** ✅
+* **Payout:** `+2.0u`
 
 There’s a 100% chance that this game is getting settled by 3 or fewer points.That’s just what happens when Northwestern meets Michigan State. And I refuse to acknowledge that change is possible. 
 
@@ -46,8 +46,8 @@ This game is peak B1G and I cannot wait. Plus it’s late on a Friday. If this g
 ### Western Michigan @ Michigan
 * **Point spread:** `WMU +17 @ -111`
 * **Score prediction:** `WMU 27, MICH 42`
-* **Status:** 
-* **Payout:** 
+* **Status:** ❌
+* **Payout:** `-1u`
 
 Ugh. I guess we’ll see how this goes. 
 
@@ -58,57 +58,57 @@ If the prop is available, I would bet that the first touchdown will not be score
 ### Penn State @ Wisconsin
 * **Point spread:** `WISC -5 @ -110`
 * **Score prediction:** `PSU 21, WISC 28`
-* **Status:** 
-* **Payout:** 
+* **Status:** ❌
+* **Payout:** `-1u`
 
 ### UTSA @ Illinois
 * **Point spread:** `ILL -4.5 @ -110`
 * **Score prediction:** `UTSA 17, ILL 28`
-* **Status:** 
-* **Payout:** 
+* **Status:** ❌
+* **Payout:** `-1u`
 
 ### West Virginia @ Maryland
 * **Point spread:** `WVU -3 @ -115`
 * **Score prediction:** `WVU 28, MD 17`
-* **Status:** 
-* **Payout:** 
+* **Status:** ❌
+* **Payout:** `-1u`
 
 ### Indiana @ Iowa
 * **Point spread:** `IOWA -3 @ -114`
 * **Score prediction:** `IND 17, IOWA 23`
-* **Status:** 
-* **Payout:**
+* **Status:** ❌
+* **Payout:** `-1u`
 
 ### Oregon State @ Purdue
 * **Point spread:** `PUR -7`
 * **Score prediction:** `OSU 20, PUR 28`
-* **Status:** 
-* **Payout:**
+* **Status:** ❌
+* **Payout:** `-1u`
 
 ## Big Games
 
 ### Georgia @ Clemson
 * **Point spread:** `CLEM -3 @ -115`
 * **Score prediction:** `UGA 28, CLEM 35`
-* **Status:** 
-* **Payout:**
+* **Status:** ❌
+* **Payout:** `-1u`
 
 ### Alabama @ Miami (FL)
 * **Point spread:**
 * **Score prediction:**
-* **Status:**
-* **Payout:**
+* **Status:** ❌
+* **Payout:** `-1u`
 
 ### Notre Dame @ Florida State
 * **Point spread:** `ND -9.5`
 * **Score prediction:** `ND 28, FSU 17`
-* **Status:** 
-* **Payout:**
+* **Status:** ❌
+* **Payout:** `-1u`
 
 ## PAC After Dark
 
 ### BYU @ Arizona
 * **Point spread:** `BYU -11`
 * **Score prediction:** `BYU 42, AZ 28`
-* **Status:** 
-* **Payout:**
+* **Status:** ❌
+* **Payout:** `-1u`
