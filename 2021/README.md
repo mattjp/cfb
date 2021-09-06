@@ -4,14 +4,14 @@
 
 | Team | Regular Season Wins | Record | Status | Payout |
 | :--- | :------------------ | :----: | :----: | :----: |
-| Illinois       | `Over 3.5 @ -135`  | `1-0` | ❌ | `-1u` |
+| Illinois       | `Over 3.5 @ -135`  | `1-1` | ❌ | `-1u` |
 | Indiana        | `Over 7.5 @ -120`  | `0-1` | ❌ | `-1u` |
 | Iowa           | `Under 8.5 @ -120` | `1-0` | ❌ | `-1u` |
 | Maryland       | `Over 5.5 @ -141`  | `1-0` | ❌ | `-1u` |
 | Michigan       | `Over 7.5 @ -135`  | `1-0` | ❌ | `-1u` |
 | Michigan State | `Over 5 @ -125`    | `1-0` | ❌ | `-1u` |
 | Minnesota      | `Under 7.5 @ -156` | `0-1` | ❌ | `-1u` |
-| Nebraska       | `Under 6.5 @ -141` | `0-1` | ❌ | `-1u` |
+| Nebraska       | `Under 6.5 @ -141` | `1-1` | ❌ | `-1u` |
 | Northwestern   | `Over 6.5 @ -106`  | `0-1` | ❌ | `-1u` |
 | Ohio State     | `Over 11.5 @ +130` | `1-0` | ❌ | `-1u` |
 | Penn State     | `Over 8.5 @ -125`  | `1-0` | ❌ | `-1u` |
@@ -24,26 +24,44 @@
 
 | Game | Point Spread | Final Score | Status | Payout |
 | :--- | :----------- | :---------: | :----: | :----: |
-| `NEB @ ILL` | `ILL +7 @ -122` | `NEB 22, ILL 30` | ✅ | `+1.8u` |
-| | | | | `+1.8u` |
+| `NEB @ ILL` | `ILL +7 @ -122` | `NEB 22, ILL 30` | ✅ | `+0.8u` |
+| | | | | `+0.8u` |
 
 ## Week 1
 
 | Game | Point Spread | Final Score | Status | Payout |
 | :--- | :----------- | :---------: | :----: | :----: |
-| `TMPL @ RUT` | `RUT -13 @ -123`   | `RUT 61, TMPL 14` | ✅ | `+1.8u` |
-| `OSU @ MINN` | `OSU -13.5 @ -114` | `OSU 45, MINN 31` | ✅ | `+1.9u` |
-| `MSU @ NW`   | `MSU +3 @ -104`    | `MSU 38, NW 21`   | ✅ | `+2.0u` |
+| `TMPL @ RUT` | `RUT -13 @ -123`   | `RUT 61, TMPL 14` | ✅ | `+0.8u` |
+| `OSU @ MINN` | `OSU -13.5 @ -114` | `OSU 45, MINN 31` | ✅ | `+0.9u` |
+| `MSU @ NW`   | `MSU +3 @ -104`    | `MSU 38, NW 21`   | ✅ | `+1.0u` |
 | `WMU @ MICH` | `WMU +17 @ -111`   | `WMU 14, MICH 47` | ❌ | `-1u`   |
 | `PSU @ WISC` | `WISC -5 @ -110`   | `PSU 16, WISC 10` | ❌ | `-1u`   |
 | `UTSA @ ILL` | `ILL -4.5 @ -110`  | `UTSA 37, ILL 30` | ❌ | `-1u`   |
 | `WVU @ MD`   | `WVU -3 @ -115`    | `WVU 24, MD 30`   | ❌ | `-1u`   |
-| `IND @ IOWA` | `IOWA -3 @ -114`   | `IND 6, IOWA 34`  | ✅ | `+1.9u` |
-| `OSU @ PUR`  | `PUR -7 @ -103`    | `OSU 21, PUR 30`  | ✅ | `+2.0u` |
+| `IND @ IOWA` | `IOWA -3 @ -114`   | `IND 6, IOWA 34`  | ✅ | `+0.9u` |
+| `OSU @ PUR`  | `PUR -7 @ -103`    | `OSU 21, PUR 30`  | ✅ | `+1.0u` |
 | `UGA @ CLEM` | `CLEM -3 @ -115`   | `UGA 10, CLEM 3`  | ❌ | `-1u`   |
-| `AL @ MIA`   | `AL -18 @ -106`    | `AL 44, MIA 13`   | ✅ | `+1.9u` |
-| `ND @ FSU`   | `ND -7 @ -114`     | | ❌ | `-1u` |
-| `BYU @ AZ`   | `BYU -12.5 @ -105` | | ❌ | `-1u` |
-| | | | | `+4.5u` |
+| `AL @ MIA`   | `AL -18 @ -106`    | `AL 44, MIA 13`   | ✅ | `+0.9u` |
+| `ND @ FSU`   | `ND -7 @ -114`     | `ND 41, FSU 38`   | ❌ | `-1u`   |
+| `BYU @ AZ`   | `BYU -12.5 @ -105` | `BYU 24, AZ 16`   | ❌ | `-1u`   |
+| | | | | `-2.5u` |
 
 ## Week 2
+
+| Game | Point Spread | Final Score | Status | Payout |
+| :--- | :----------- | :---------: | :----: | :----: |
+| `ILL @ UVA`   | `UVA -10.0 @ -109`   | | ❌ | `-1u` |
+| `MU @ MINN`   | `MINN -20.5 @ -108`  | | ❌ | `-1u` |
+| `YSU @ MSU`   | `?` | | ❌ | `-1u` |
+| `UO @ OSU`    | `?` | | ❌ | `-1u` |
+| `ISU @ NW`    | `?` | | ❌ | `-1u` |
+| `RUT @ SYR`   | `RUT -1.5 @ -108`    | | ❌ | `-1u` |
+| `PUR @ UCONN` | `UCONN +33.0 @ -108` | | ❌ | `-1u` |
+| `BUF @ NEB`   | `BUF +12.0 @ -108`   | | ❌ | `-1u` |
+| `BALL @ PSU`  | `BALL +22.5 @ -108`  | | ❌ | `-1u` |
+| `IOWA @ ISU`  | `?` | | ❌ | `-1u` |
+| `EMU @ WISC`  | `WISC -24.0 @ -108`  | | ❌ | `-1u` |
+| `HU @ MD`     | `?` | | ❌ | `-1u` |
+| `UI @ IND`    | `?` | | ❌ | `-1u` |
+| `UW @ MICH`   | `?` | | ❌ | `-1u` |
+| | | | | `-14u` |

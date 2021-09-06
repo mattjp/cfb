@@ -5,8 +5,8 @@
 ### Temple @ Rutgers
 * **Point spread:** `RUT -13 @ -123`
 * **Score prediction:** `TMPL 7, RUT 24`
-* **Status:** ⛈️
-* **Payout:** `0u`
+* **Status:** ✅
+* **Payout:** `+0.8u`
 
 Boy howdy, I have nothing to say about this game, other than it’s a must-win for the Scarlet Knights. Rutgers by 2 touchdowns is a scary spread, but consider this: Temple is not favored to beat Rutgers, yes that Rutgers, by 2 touchdowns. Schiano is going to continue to make them better, and that starts by winning the games you’re supposed to win. A big man once said, you make money by betting on bad teams (but not Temple).
 
@@ -14,7 +14,7 @@ Boy howdy, I have nothing to say about this game, other than it’s a must-win f
 * **Point spread:** `OSU -13.5 @ -114`
 * **Score prediction:** `OSU 56, MINN 21`
 * **Status:** ✅
-* **Payout:** `+1.9u`
+* **Payout:** `+0.9u`
 
 This game is free money. 
 
@@ -32,7 +32,7 @@ Anyway, this game is over before it starts, bet the farm on OSU covering.
 * **Point spread:** `MSU +3 @ -104`
 * **Score prediction:** `MSU 20, NW 17` or `MSU 17, NW 20`
 * **Status:** ✅
-* **Payout:** `+2.0u`
+* **Payout:** `+1.0u`
 
 There’s a 100% chance that this game is getting settled by 3 or fewer points.That’s just what happens when Northwestern meets Michigan State. And I refuse to acknowledge that change is possible. 
 
