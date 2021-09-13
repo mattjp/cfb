@@ -69,3 +69,24 @@
 | `PITT @ TENN` | `PITT -3 @ -115`    | `PITT 41, TENN 34` | ✅ | `+0.9u` |
 | `UTAH @ BYU`  | `BYU +7 @ -111`     | `UTAH 17, BYU 26`  | ✅ | `+0.9u` |
 | | | | | `+1u` |
+
+## Week 3
+
+| Game | Point Spread | Final Score | Status | Payout |
+| :--- | :----------- | :---------: | :----: | :----: |
+| `MD @ ILL`   | `MD -8`      | | ❌ | `-1u` |
+| `NIU @ MICH` | `NIU +27`    | | ❌ | `-1u` |
+| `MSU @ MIA`  | `MSU +6.5`   | | ❌ | `-1u` |
+| `CIN @ IU`   | `CIN -3.5`   | | ❌ | `-1u` |
+| `NEB @ OK`   | `NEB +22`    | | ❌ | `-1u` |
+| `MINN @ COL` | `COL -2`     | | ❌ | `-1u` |
+| `PUR @ ND`   | `ND -7`      | | ❌ | `-1u` |
+| `DEL @ RUT`  | `N/A`        | | ❌ | `-1u` |
+| `TUL @ OSU`  | `OSU -26.5`  | | ❌ | `-1u` |
+| `KSU @ IOWA` | `IOWA -22.5` | | ❌ | `-1u` |
+| `NW @ DUKE`  | `NW -3`      | | ❌ | `-1u` |
+| `AUB @ PSU`  | `AUB +6`     | | ❌ | `-1u` |
+| `AL @ FLA`   | `AL -15.5`   | | ❌ | `-1u` |
+| `UVA @ NC`   | `UVA +9`     | | ❌ | `-1u` |
+| `ASU @ BYU`  | `BYU +3.5`   | | ❌ | `-1u` |
+| | | | | `-15u` |
