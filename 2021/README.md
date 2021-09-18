@@ -4,10 +4,10 @@
 
 | Team | Regular Season Wins | Record | Status | Payout |
 | :--- | :------------------ | :----: | :----: | :----: |
-| Illinois       | `Over 3.5 @ -135`  | `1-2` | ❌ | `-1u` |
+| Illinois       | `Over 3.5 @ -135`  | `1-3` | ❌ | `-1u` |
 | Indiana        | `Over 7.5 @ -120`  | `1-1` | ❌ | `-1u` |
 | Iowa           | `Under 8.5 @ -120` | `2-0` | ❌ | `-1u` |
-| Maryland       | `Over 5.5 @ -141`  | `2-0` | ❌ | `-1u` |
+| Maryland       | `Over 5.5 @ -141`  | `3-0` | ❌ | `-1u` |
 | Michigan       | `Over 7.5 @ -135`  | `2-0` | ❌ | `-1u` |
 | Michigan State | `Over 5 @ -125`    | `2-0` | ❌ | `-1u` |
 | Minnesota      | `Under 7.5 @ -156` | `1-1` | ❌ | `-1u` |
@@ -74,14 +74,14 @@
 
 | Game | Point Spread | Final Score | Status | Payout |
 | :--- | :----------- | :---------: | :----: | :----: |
-| `MD @ ILL`   | `MD -7.5 @ -106`   | | ❌ | `-1u` |
+| `MD @ ILL`   | `MD -7.5 @ -106`   | `MD 20, ILL 17` | ❌ | `-1u` |
 | `NIU @ MICH` | `NIU +27 @ -105`   | | ❌ | `-1u` |
 | `MSU @ MIA`  | `MSU +6.5 @ -110`  | | ❌ | `-1u` |
 | `CIN @ IU`   | `CIN -4 @ -111`    | | ❌ | `-1u` |
 | `NEB @ OK`   | `NEB +22.5 @ -108` | | ❌ | `-1u` |
 | `MINN @ COL` | `MINN +2.5 @ -101` | | ❌ | `-1u` |
 | `PUR @ ND`   | `ND -7 @ -119`     | | ❌ | `-1u` |
-| `DEL @ RUT`  | `N/A`              | | ❌ | `0u` |
+| `DEL @ RUT`  | `RUT -21 @ -110`   | | ❌ | `-1u` |
 | `TUL @ OSU`  | `OSU -24.5 @ -108` | | ❌ | `-1u` |
 | `KSU @ IOWA` | `IOWA -23 @ -106`  | | ❌ | `-1u` |
 | `NW @ DUKE`  | `NW -3 @ +100`     | | ❌ | `-1u` |
@@ -90,4 +90,4 @@
 | `UVA @ NC`   | `UVA +9 @ -109`    | | ❌ | `-1u` |
 | `TUL @ UM`   | `TUL +14 @ -102`   | | ❌ | `-1u` |
 | `ASU @ BYU`  | `BYU +3.5 @ -105`  | | ❌ | `-1u` |
-| | | | | `-15u` |
+| | | | | `-16u` |
