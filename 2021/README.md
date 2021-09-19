@@ -5,18 +5,18 @@
 | Team | Regular Season Wins | Record | Status | Payout |
 | :--- | :------------------ | :----: | :----: | :----: |
 | Illinois       | `Over 3.5 @ -135`  | `1-3` | ❌ | `-1u` |
-| Indiana        | `Over 7.5 @ -120`  | `1-1` | ❌ | `-1u` |
-| Iowa           | `Under 8.5 @ -120` | `2-0` | ❌ | `-1u` |
+| Indiana        | `Over 7.5 @ -120`  | `1-2` | ❌ | `-1u` |
+| Iowa           | `Under 8.5 @ -120` | `3-0` | ❌ | `-1u` |
 | Maryland       | `Over 5.5 @ -141`  | `3-0` | ❌ | `-1u` |
-| Michigan       | `Over 7.5 @ -135`  | `2-0` | ❌ | `-1u` |
-| Michigan State | `Over 5 @ -125`    | `2-0` | ❌ | `-1u` |
-| Minnesota      | `Under 7.5 @ -156` | `1-1` | ❌ | `-1u` |
-| Nebraska       | `Under 6.5 @ -141` | `2-1` | ❌ | `-1u` |
-| Northwestern   | `Over 6.5 @ -106`  | `1-1` | ❌ | `-1u` |
-| Ohio State     | `Over 11.5 @ +130` | `1-1` | ❌ | `-1u` |
-| Penn State     | `Over 8.5 @ -125`  | `2-0` | ❌ | `-1u` |
-| Purdue         | `Under 5.5 @ -104` | `2-0` | ❌ | `-1u` |
-| Rutgers        | `Over 4.5 @ +105`  | `2-0` | ❌ | `-1u` |
+| Michigan       | `Over 7.5 @ -135`  | `3-0` | ❌ | `-1u` |
+| Michigan State | `Over 5 @ -125`    | `3-0` | ❌ | `-1u` |
+| Minnesota      | `Under 7.5 @ -156` | `2-1` | ❌ | `-1u` |
+| Nebraska       | `Under 6.5 @ -141` | `2-2` | ❌ | `-1u` |
+| Northwestern   | `Over 6.5 @ -106`  | `1-2` | ❌ | `-1u` |
+| Ohio State     | `Over 11.5 @ +130` | `2-1` | ❌ | `-1u` |
+| Penn State     | `Over 8.5 @ -125`  | `3-0` | ❌ | `-1u` |
+| Purdue         | `Under 5.5 @ -104` | `2-1` | ❌ | `-1u` |
+| Rutgers        | `Over 4.5 @ +105`  | `3-0` | ❌ | `-1u` |
 | Wisconsin      | `Over 9.5 @ -105`  | `1-1` | ❌ | `-1u` |
 | | | | | `-14u` |
 
@@ -74,20 +74,20 @@
 
 | Game | Point Spread | Final Score | Status | Payout |
 | :--- | :----------- | :---------: | :----: | :----: |
-| `MD @ ILL`   | `MD -7.5 @ -106`   | `MD 20, ILL 17` | ❌ | `-1u` |
-| `NIU @ MICH` | `NIU +27 @ -105`   | | ❌ | `-1u` |
-| `MSU @ MIA`  | `MSU +6.5 @ -110`  | | ❌ | `-1u` |
-| `CIN @ IU`   | `CIN -4 @ -111`    | | ❌ | `-1u` |
-| `NEB @ OK`   | `NEB +22.5 @ -108` | | ❌ | `-1u` |
-| `MINN @ COL` | `MINN +2.5 @ -101` | | ❌ | `-1u` |
-| `PUR @ ND`   | `ND -7 @ -119`     | | ❌ | `-1u` |
-| `DEL @ RUT`  | `RUT -21 @ -110`   | | ❌ | `-1u` |
-| `TUL @ OSU`  | `OSU -24.5 @ -108` | | ❌ | `-1u` |
-| `KSU @ IOWA` | `IOWA -23 @ -106`  | | ❌ | `-1u` |
-| `NW @ DUKE`  | `NW -3 @ +100`     | | ❌ | `-1u` |
-| `AUB @ PSU`  | `AUB +6 @ -106`    | | ❌ | `-1u` |
-| `AL @ FLA`   | `AL -14 @ -114`    | | ❌ | `-1u` |
-| `UVA @ NC`   | `UVA +9 @ -109`    | | ❌ | `-1u` |
-| `TUL @ UM`   | `TUL +14 @ -102`   | | ❌ | `-1u` |
-| `ASU @ BYU`  | `BYU +3.5 @ -105`  | | ❌ | `-1u` |
-| | | | | `-16u` |
+| `MD @ ILL`   | `MD -7.5 @ -106`   | `MD 20, ILL 17`   | ❌ | `-1u`   |
+| `NIU @ MICH` | `NIU +27 @ -105`   | `NIU 10, MICH 63` | ❌ | `-1u`   |
+| `MSU @ MIA`  | `MSU +6.5 @ -110`  | `MSU 38, MIA 17`  | ✅ | `+0.9u` |
+| `CIN @ IU`   | `CIN -4 @ -111`    | `CIN 38, IU 24`   | ✅ | `+0.9u` |
+| `NEB @ OK`   | `NEB +22.5 @ -108` | `NEB 16, OK 23`   | ✅ | `+0.9u` |
+| `MINN @ COL` | `MINN +2.5 @ -101` | `MINN 30, COL 0`  | ✅ | `+1u`   |
+| `PUR @ ND`   | `ND -7 @ -119`     | `PUR 13, ND 27`   | ✅ | `+0.8u` |
+| `DEL @ RUT`  | `RUT -21 @ -110`   | `DEL 13, RUT 45`  | ✅ | `+0.9u` |
+| `TUL @ OSU`  | `OSU -24.5 @ -108` | `TUL 20, OSU 41`  | ❌ | `-1u`   |
+| `KSU @ IOWA` | `IOWA -23 @ -106`  | `KSU 7, IOWA 30`  | ✋ | `0u`    |
+| `NW @ DUKE`  | `NW -3 @ +100`     | `NW 23, DUKE 30`  | ❌ | `-1u`   |
+| `AUB @ PSU`  | `AUB +6 @ -106`    | `AUB 20, PSU 28`  | ❌ | `-1u`   |
+| `AL @ FLA`   | `AL -14 @ -114`    | `AL 31, FLA 29`   | ❌ | `-1u`   |
+| `UVA @ UNC`  | `UVA +9 @ -109`    | `UVA 39, UNC 59`  | ❌ | `-1u`   |
+| `TUL @ MISS` | `TUL +14 @ -102`   | `TUL 21, MISS 61` | ❌ | `-1u`   |
+| `ASU @ BYU`  | `BYU +3.5 @ -105`  | `ASU 17, BYU 27`  | ✅ | `+1u`   |
+| | | | | `-1.6u` |
