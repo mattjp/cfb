@@ -96,10 +96,10 @@
 
 | Game | Point Spread | Final Score | Status | Payout |
 | :--- | :----------- | :---------: | :----: | :----: |
-| `BG @ MINN`  | `MINN -30 @ -109`   |  | ❌ | `-1u` |
-| `OHIO @ NW`  | `NW -15.5 @ -106`   |  | ❌ | `-1u` |
-| `ND vs WISC` | `ND +5.5 @ -110`    |  | ❌ | `-1u` |
-| `VILL @ PSU` | `VILL +29.5 @ -110` |  | ❌ | `-1u` |
+| `BG @ MINN`  | `MINN -30 @ -109`   | `BG 14, MINN 10`  | ❌ | `-1u`   |
+| `OHIO @ NW`  | `NW -15.5 @ -106`   | `OHIO 6, NW 35`   | ✅ | `+0.9u` |
+| `ND vs WISC` | `ND +5.5 @ -110`    | `ND 41, WISC 13`  | ✅ | `+0.9u` |
+| `VILL @ PSU` | `VILL +29.5 @ -110` | `VILL 17, PSU 38` | ✅ | `+0.9u` |
 | `ILL @ PUR`  | `ILL +11.5 @ -109`  |  | ❌ | `-1u` |
 | `KSU @ MD`   | `MD -14 @ -112`     |  | ❌ | `-1u` |
 | `RUT @ MICH` | `MICH -18.5 @ -111` |  | ❌ | `-1u` |
