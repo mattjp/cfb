@@ -110,3 +110,19 @@
 | `WVU @ OK`   | `WVU +16 @ -106`    | `WVU 13, OK 16`   | ✅ | `+0.9u` |
 ||||| `+1.3u` |
 
+## Week 5
+
+| Game | Point Spread | Final Score | Status | Payout |
+| :--- | :----------- | :---------: | :----: | :----: |
+| `IOWA @ MD` | `` || ❌ | `-1u` |
+| `MICH @ WISC` | `` || ❌ | `-1u` |
+| `CHAR @ ILL` | `` || ❌ | `-1u` |
+| `MINN @ PUR` | `` || ❌ | `-1u` |
+| `OSU @ RUT` | `` || ❌ | `-1u` |
+| `IND @ PSU` | `` || ❌ | `-1u` |
+| `WKU @ MSU` | `` || ❌ | `-1u` |
+| `NW @ NEB` | `` || ❌ | `-1u` |
+| `MISS @ AL` | `` || ❌ | `-1u` |
+| `CINN @ ND` | `` || ❌ | `-1u` |
+| `ARK @ UGA` | `` || ❌ | `-1u` |
+| `WASH @ OSU` | `` || ❌ | `-1u` |
