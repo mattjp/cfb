@@ -114,15 +114,15 @@
 
 | Game | Point Spread | Final Score | Status | Payout |
 | :--- | :----------- | :---------: | :----: | :----: |
-| `IOWA @ MD` | `` || ❌ | `-1u` |
-| `MICH @ WISC` | `` || ❌ | `-1u` |
-| `CHAR @ ILL` | `` || ❌ | `-1u` |
-| `MINN @ PUR` | `` || ❌ | `-1u` |
-| `OSU @ RUT` | `` || ❌ | `-1u` |
-| `IND @ PSU` | `` || ❌ | `-1u` |
-| `WKU @ MSU` | `` || ❌ | `-1u` |
-| `NW @ NEB` | `` || ❌ | `-1u` |
-| `MISS @ AL` | `` || ❌ | `-1u` |
-| `CINN @ ND` | `` || ❌ | `-1u` |
-| `ARK @ UGA` | `` || ❌ | `-1u` |
-| `WASH @ OSU` | `` || ❌ | `-1u` |
+| `IOWA @ MD`   | `IOWA -3 @ -110`    || ❌ | `-1u` |
+| `MICH @ WISC` | `MICH -1` || ❌ | `-1u` |
+| `CHAR @ ILL`  | `CHAR +10` || ❌ | `-1u` |
+| `MINN @ PUR`  | `MINN +2.5` || ❌ | `-1u` |
+| `OSU @ RUT`   | `RUT +15` || ❌ | `-1u` |
+| `IND @ PSU`   | `` || ❌ | `-1u` |
+| `WKU @ MSU`   | `MSU -10.5 @ -106`  || ❌ | `-1u` |
+| `NW @ NEB`    | `NW +10 @ -105`     || ❌ | `-1u` |
+| `MISS @ AL`   | `MISS +14.5 @ -109` || ❌ | `-1u` |
+| `CINN @ ND`   | `CINN -2.5 @ -108`  || ❌ | `-1u` |
+| `ARK @ UGA`   | `ARK +18.5 @ -109`  || ❌ | `-1u` |
+| `WASH @ OSU`  | `OSU +2.5` || ❌ | `-1u` |
