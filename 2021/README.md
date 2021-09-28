@@ -115,14 +115,15 @@
 | Game | Point Spread | Final Score | Status | Payout |
 | :--- | :----------- | :---------: | :----: | :----: |
 | `IOWA @ MD`   | `IOWA -3 @ -110`    || ❌ | `-1u` |
-| `MICH @ WISC` | `MICH -1` || ❌ | `-1u` |
-| `CHAR @ ILL`  | `CHAR +10` || ❌ | `-1u` |
-| `MINN @ PUR`  | `MINN +2.5` || ❌ | `-1u` |
-| `OSU @ RUT`   | `RUT +15` || ❌ | `-1u` |
-| `IND @ PSU`   | `` || ❌ | `-1u` |
+| `MICH @ WISC` | `WISC -1 @ -109`    || ❌ | `-1u` |
+| `CHAR @ ILL`  | `CHAR +11 @ -109`   || ❌ | `-1u` |
+| `MINN @ PUR`  | `PUR -2.5 @ -105`   || ❌ | `-1u` |
+| `OSU @ RUT`   | `OSU -15 @ -108`    || ❌ | `-1u` |
+| `IND @ PSU`   | `IND +10.5 @ +101`  || ❌ | `-1u` |
 | `WKU @ MSU`   | `MSU -10.5 @ -106`  || ❌ | `-1u` |
 | `NW @ NEB`    | `NW +10 @ -105`     || ❌ | `-1u` |
 | `MISS @ AL`   | `MISS +14.5 @ -109` || ❌ | `-1u` |
 | `CINN @ ND`   | `CINN -2.5 @ -108`  || ❌ | `-1u` |
 | `ARK @ UGA`   | `ARK +18.5 @ -109`  || ❌ | `-1u` |
-| `WASH @ OSU`  | `OSU +2.5` || ❌ | `-1u` |
+| `BC @ CLEM`   | `BC +16.5 @ -108`   || ❌ | `-1u` |
+||||| `-12u` |
