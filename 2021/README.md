@@ -1,23 +1,27 @@
 # 2021 Season Tracker
 
+| Total | Correct | % Correct | Return  |
+| :---: | :-----: | :-------: | :----:  |
+| 72    | 37      | 51.4%     | `-1.6u` |
+
 ## Futures
 
 | Team | Regular Season Wins | Record | Status | Payout |
 | :--- | :------------------ | :----: | :----: | :----: |
-| Illinois       | `Over 3.5 @ -135`  | `1-4` | ❌ | `-1u` |
-| Indiana        | `Over 7.5 @ -120`  | `2-2` | ❌ | `-1u` |
-| Iowa           | `Under 8.5 @ -120` | `4-0` | ❌ | `-1u` |
-| Maryland       | `Over 5.5 @ -141`  | `4-0` | ❌ | `-1u` |
-| Michigan       | `Over 7.5 @ -135`  | `4-0` | ❌ | `-1u` |
-| Michigan State | `Over 5 @ -125`    | `4-0` | ❌ | `-1u` |
-| Minnesota      | `Under 7.5 @ -156` | `2-2` | ❌ | `-1u` |
-| Nebraska       | `Under 6.5 @ -141` | `2-3` | ❌ | `-1u` |
-| Northwestern   | `Over 6.5 @ -106`  | `2-2` | ❌ | `-1u` |
-| Ohio State     | `Over 11.5 @ +130` | `3-1` | ❌ | `-1u` |
-| Penn State     | `Over 8.5 @ -125`  | `4-0` | ❌ | `-1u` |
-| Purdue         | `Under 5.5 @ -104` | `3-1` | ❌ | `-1u` |
-| Rutgers        | `Over 4.5 @ +105`  | `3-1` | ❌ | `-1u` |
-| Wisconsin      | `Over 9.5 @ -105`  | `1-2` | ❌ | `-1u` |
+| Illinois       | `Over 3.5 @ -135`  | `2-4` | ❌ | `-1u` |
+| Indiana        | `Over 7.5 @ -120`  | `2-3` | ❌ | `-1u` |
+| Iowa           | `Under 8.5 @ -120` | `5-0` | ❌ | `-1u` |
+| Maryland       | `Over 5.5 @ -141`  | `4-1` | ❌ | `-1u` |
+| Michigan       | `Over 7.5 @ -135`  | `5-0` | ❌ | `-1u` |
+| Michigan State | `Over 5 @ -125`    | `5-0` | ✋ | `0u`  |
+| Minnesota      | `Under 7.5 @ -156` | `3-2` | ❌ | `-1u` |
+| Nebraska       | `Under 6.5 @ -141` | `3-3` | ❌ | `-1u` |
+| Northwestern   | `Over 6.5 @ -106`  | `2-3` | ❌ | `-1u` |
+| Ohio State     | `Over 11.5 @ +130` | `4-1` | ❌ | `-1u` |
+| Penn State     | `Over 8.5 @ -125`  | `5-0` | ❌ | `-1u` |
+| Purdue         | `Under 5.5 @ -104` | `3-2` | ❌ | `-1u` |
+| Rutgers        | `Over 4.5 @ +105`  | `3-2` | ❌ | `-1u` |
+| Wisconsin      | `Over 9.5 @ -105`  | `1-3` | ❌ | `-1u` |
 | | | | | `-14u` |
 
 ## Week 0
@@ -118,12 +122,24 @@
 | `MICH @ WISC` | `WISC -1 @ -109`    | `MICH 38, WISC 17` | ❌ | `-1u`   |
 | `CHAR @ ILL`  | `CHAR +11 @ -109`   | `CHAR 14, ILL 24`  | ✅ | `+0.9u` |
 | `MINN @ PUR`  | `PUR -2.5 @ -105`   | `MINN 20, PUR 13`  | ❌ | `-1u`   |
-| `OSU @ RUT`   | `OSU -15 @ -108`    || ❌ | `-1u` |
-| `IND @ PSU`   | `IND +10.5 @ +101`  || ❌ | `-1u` |
-| `WKU @ MSU`   | `MSU -10.5 @ -106`  || ❌ | `-1u` |
-| `NW @ NEB`    | `NW +10 @ -105`     || ❌ | `-1u` |
-| `MISS @ AL`   | `MISS +14.5 @ -109` || ❌ | `-1u` |
-| `CINN @ ND`   | `CINN -2.5 @ -108`  || ❌ | `-1u` |
+| `OSU @ RUT`   | `OSU -15 @ -108`    | `OSU 52, RUT 13`   | ✅ | `+0.9u` |
+| `IND @ PSU`   | `IND +10.5 @ +101`  | `IND 0, PSU 24`    | ❌ | `-1u`   |
+| `WKU @ MSU`   | `MSU -10.5 @ -106`  | `WKU 31, MSU 48`   | ✅ | `+0.9u` |
+| `NW @ NEB`    | `NW +10 @ -105`     | `NW 7, NEB 56`     | ❌ | `-1u`   |
+| `MISS @ AL`   | `MISS +14.5 @ -109` | `MISS 21, AL 42`   | ❌ | `-1u`   |
+| `CINN @ ND`   | `CINN -2.5 @ -108`  | `CINN 24, ND 13`   | ✅ | `+0.9u` |
 | `ARK @ UGA`   | `ARK +18.5 @ -109`  | `ARK 0, UGA 37`    | ❌ | `-1u`   |
-| `BC @ CLEM`   | `BC +16.5 @ -108`   || ❌ | `-1u` |
-||||| `-12u` |
+| `BC @ CLEM`   | `BC +16.5 @ -108`   | `BC 13, CLEM 19`   | ✅ | `+0.9u` |
+||||| `-0.6u` |
+
+## Week 6
+
+| Game | Point Spread | Final Score | Status | Payout |
+| :--- | :----------- | :---------: | :----: | :----: |
+| `MD @ OSU`   ||| ❌ | `-1u` |
+| `MSU @ RUT`  ||| ❌ | `-1u` |
+| `WISC @ ILL` ||| ❌ | `-1u` |
+| `PSU @ IOWA` ||| ❌ | `-1u` |
+| `MICH @ NEB` ||| ❌ | `-1u` |
+| `OK vs UT`   ||| ❌ | `-1u` |
+| `AL @ TAMU`  ||| ❌ | `-1u` |
