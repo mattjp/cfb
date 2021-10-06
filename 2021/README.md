@@ -1,8 +1,9 @@
 # 2021 Season Tracker
 
-| Total | Correct | % Correct | Return  |
-| :---: | :-----: | :-------: | :----:  |
-| 72    | 37      | 51.4%     | `-1.6u` |
+|          | Total | Correct | % Correct | Return  |
+| :------- | :---: | :-----: | :-------: | :----:  |
+| **All**  | 72    | 37      | 51.4%     | `-1.6u` |
+| **B1G**  | 55    | 30      | 54.5%     | `+2.8u` |
 
 ## Futures
 
@@ -136,10 +137,12 @@
 
 | Game | Point Spread | Final Score | Status | Payout |
 | :--- | :----------- | :---------: | :----: | :----: |
-| `MD @ OSU`   ||| ❌ | `-1u` |
-| `MSU @ RUT`  ||| ❌ | `-1u` |
-| `WISC @ ILL` ||| ❌ | `-1u` |
-| `PSU @ IOWA` ||| ❌ | `-1u` |
-| `MICH @ NEB` ||| ❌ | `-1u` |
-| `OK vs UT`   ||| ❌ | `-1u` |
-| `AL @ TAMU`  ||| ❌ | `-1u` |
+| `MD @ OSU`   | `OSU -20.5 @ -111` || ❌ | `-1u` |
+| `MSU @ RUT`  | `MSU -5 @ -111`    || ❌ | `-1u` |
+| `WISC @ ILL` | `ILL +10 @ -103`   || ❌ | `-1u` |
+| `PSU @ IOWA` | `IOWA -2 @ -103`   || ❌ | `-1u` |
+| `MICH @ NEB` | `MICH -3.5 @ -102` || ❌ | `-1u` |
+| `BSU @ BYU`  | `BYU -5.5 @ -110`  || ❌ | `-1u` |
+| `OK vs UT`   | `UT +3.5 @ -115`   || ❌ | `-1u` |
+| `AL @ TAMU`  | `AL -17.5 @ -109`  || ❌ | `-1u` |
+| `ND @ VT`    | `ND -1 @ -104`     || ❌ | `-1u` |
