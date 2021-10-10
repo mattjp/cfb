@@ -147,3 +147,13 @@
 | `AL @ TAMU`  | `AL -17.5 @ -109`  | `AL 38, TAMU 41`  | ❌ | `-1u`   |
 | `ND @ VT`    | `ND -1 @ -104`     | `ND 32, VT 19`    | ✅ | `+1u`   |
 ||||| `-1.2u` |
+
+## Week 7
+| Game | Point Spread | Final Score | Status | Payout |
+| :--- | :----------- | :---------: | :----: | :----: |
+| `MSU @ IND`   ||| ❌ | `-1u` |
+| `NEB @ MINN`  ||| ❌ | `-1u` |
+| `RUT @ NW`    ||| ❌ | `-1u` |
+| `PUR @ IOWA`  ||| ❌ | `-1u` |
+| `ARMY @ WISC` ||| ❌ | `-1u` |
+||||| `-5u` |
