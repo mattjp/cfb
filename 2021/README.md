@@ -9,21 +9,21 @@
 
 | Team | Regular Season Wins | Record | Status | Payout |
 | :--- | :------------------ | :----: | :----: | :----: |
-| Illinois       | `Over 3.5 @ -135`  | `2-4` | ❌ | `-1u` |
+| Illinois       | `Over 3.5 @ -135`  | `2-5` | ❌ | `-1u` |
 | Indiana        | `Over 7.5 @ -120`  | `2-3` | ❌ | `-1u` |
-| Iowa           | `Under 8.5 @ -120` | `5-0` | ❌ | `-1u` |
-| Maryland       | `Over 5.5 @ -141`  | `4-1` | ❌ | `-1u` |
-| Michigan       | `Over 7.5 @ -135`  | `5-0` | ❌ | `-1u` |
-| Michigan State | `Over 5 @ -125`    | `5-0` | ✋ | `0u`  |
+| Iowa           | `Under 8.5 @ -120` | `6-0` | ❌ | `-1u` |
+| Maryland       | `Over 5.5 @ -141`  | `4-2` | ❌ | `-1u` |
+| Michigan       | `Over 7.5 @ -135`  | `6-0` | ❌ | `-1u` |
+| Michigan State | `Over 5 @ -125`    | `6-0` | ✅ | `+1u` |
 | Minnesota      | `Under 7.5 @ -156` | `3-2` | ❌ | `-1u` |
-| Nebraska       | `Under 6.5 @ -141` | `3-3` | ❌ | `-1u` |
+| Nebraska       | `Under 6.5 @ -141` | `3-4` | ❌ | `-1u` |
 | Northwestern   | `Over 6.5 @ -106`  | `2-3` | ❌ | `-1u` |
-| Ohio State     | `Over 11.5 @ +130` | `4-1` | ❌ | `-1u` |
-| Penn State     | `Over 8.5 @ -125`  | `5-0` | ❌ | `-1u` |
+| Ohio State     | `Over 11.5 @ +130` | `5-1` | ❌ | `-1u` |
+| Penn State     | `Over 8.5 @ -125`  | `5-1` | ❌ | `-1u` |
 | Purdue         | `Under 5.5 @ -104` | `3-2` | ❌ | `-1u` |
-| Rutgers        | `Over 4.5 @ +105`  | `3-2` | ❌ | `-1u` |
-| Wisconsin      | `Over 9.5 @ -105`  | `1-3` | ❌ | `-1u` |
-| | | | | `-14u` |
+| Rutgers        | `Over 4.5 @ +105`  | `3-3` | ❌ | `-1u` |
+| Wisconsin      | `Over 9.5 @ -105`  | `2-3` | ❌ | `-1u` |
+| | | | | `-12.25u` |
 
 ## Week 0
 
