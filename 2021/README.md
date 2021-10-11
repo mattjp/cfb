@@ -151,9 +151,15 @@
 ## Week 7
 | Game | Point Spread | Final Score | Status | Payout |
 | :--- | :----------- | :---------: | :----: | :----: |
-| `MSU @ IND`   ||| ❌ | `-1u` |
-| `NEB @ MINN`  ||| ❌ | `-1u` |
-| `RUT @ NW`    ||| ❌ | `-1u` |
-| `PUR @ IOWA`  ||| ❌ | `-1u` |
-| `ARMY @ WISC` ||| ❌ | `-1u` |
-||||| `-5u` |
+| `MSU @ IND`   | `MSU -5 @ -102` |   | ❌ | `-1u` |
+| `NEB @ MINN`  | `?` || ❌ | `-1u` |
+| `RUT @ NW`    | `?` || ❌ | `-1u` |
+| `PUR @ IOWA`  | `PUR +12 @ -108` |  | ❌ | `-1u` |
+| `ARMY @ WISC` | `ARMY +13 @ -110` | | ❌ | `-1u` |
+| `APP @ ULL`   | `ULL +3.5 @ -109` | | ❌ | `-1u` |
+| `DUKE @ UVA`  | `UVA -10.5 @ -108` || ❌ | `-1u` |
+| `UCLA @ WASH` | `UCLA +2 @ -108` |  | ❌ | `-1u` |
+| `UCF @ CINN`  | `UCF +19.5 @ -108` || ❌ | `-1u` |
+||||| `-1u` |
+||||| `-1u` |
+||||| `-9u` |
