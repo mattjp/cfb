@@ -2,27 +2,27 @@
 
 |          | Total | Correct | % Correct | Return  |
 | :------- | :---: | :-----: | :-------: | :----:  |
-| **All**  | 81    | 42      | 51.9%     | `-1.8u` |
-| **B1G**  | 60    | 34      | 56.7%     | `+3.8u` |
+| **All**  | 91    | 49      | 53.8%     | `+0.6u` |
+| **B1G**  | 65    | 37      | 56.9%     | `+3.6u` |
 
 ## Futures
 
 | Team | Regular Season Wins | Record | Status | Payout |
 | :--- | :------------------ | :----: | :----: | :----: |
-| Illinois       | `Over 3.5 @ -135`  | `2-5` | ❌ | `-1u` |
-| Indiana        | `Over 7.5 @ -120`  | `2-3` | ❌ | `-1u` |
-| Iowa           | `Under 8.5 @ -120` | `6-0` | ❌ | `-1u` |
-| Maryland       | `Over 5.5 @ -141`  | `4-2` | ❌ | `-1u` |
-| Michigan       | `Over 7.5 @ -135`  | `6-0` | ❌ | `-1u` |
-| Michigan State | `Over 5 @ -125`    | `6-0` | ✅ | `+1u` |
-| Minnesota      | `Under 7.5 @ -156` | `3-2` | ❌ | `-1u` |
-| Nebraska       | `Under 6.5 @ -141` | `3-4` | ❌ | `-1u` |
-| Northwestern   | `Over 6.5 @ -106`  | `2-3` | ❌ | `-1u` |
-| Ohio State     | `Over 11.5 @ +130` | `5-1` | ❌ | `-1u` |
-| Penn State     | `Over 8.5 @ -125`  | `5-1` | ❌ | `-1u` |
-| Purdue         | `Under 5.5 @ -104` | `3-2` | ❌ | `-1u` |
-| Rutgers        | `Over 4.5 @ +105`  | `3-3` | ❌ | `-1u` |
-| Wisconsin      | `Over 9.5 @ -105`  | `2-3` | ❌ | `-1u` |
+| Illinois       | `Over 3.5 @ -135`  | `2-5` | ❌ | `-1u`    |
+| Indiana        | `Over 7.5 @ -120`  | `2-4` | ❌ | `-1u`    |
+| Iowa           | `Under 8.5 @ -120` | `6-1` | ❌ | `-1u`    |
+| Maryland       | `Over 5.5 @ -141`  | `4-2` | ❌ | `-1u`    |
+| Michigan       | `Over 7.5 @ -135`  | `6-0` | ❌ | `-1u`    |
+| Michigan State | `Over 5 @ -125`    | `7-0` | ✅ | `+0.75u` |
+| Minnesota      | `Under 7.5 @ -156` | `4-2` | ❌ | `-1u`    |
+| Nebraska       | `Under 6.5 @ -141` | `3-5` | ❌ | `-1u`    |
+| Northwestern   | `Over 6.5 @ -106`  | `3-3` | ❌ | `-1u`    |
+| Ohio State     | `Over 11.5 @ +130` | `5-1` | ❌ | `-1u`    |
+| Penn State     | `Over 8.5 @ -125`  | `5-1` | ❌ | `-1u`    |
+| Purdue         | `Under 5.5 @ -104` | `4-2` | ❌ | `-1u`    |
+| Rutgers        | `Over 4.5 @ +105`  | `3-4` | ❌ | `-1u`    |
+| Wisconsin      | `Over 9.5 @ -105`  | `3-3` | ❌ | `-1u`    |
 | | | | | `-12.25u` |
 
 ## Week 0
@@ -180,18 +180,38 @@
 
 | Game | Point Spread | Final Score | Status | Payout |
 | :--- | :----------- | :---------: | :----: | :----: |
-| `MSU @ IND`   | `MSU -5 @ -102`    |  | ❌ | `-1u` |
-| `NEB @ MINN`  | `NEB -3.5 @ -116`  |  | ❌ | `-1u` |
-| `RUT @ NW`    | `RUT -2 @ -109`    |  | ❌ | `-1u` |
-| `PUR @ IOWA`  | `PUR +12 @ -108`   |  | ❌ | `-1u` |
-| `ARMY @ WISC` | `ARMY +13 @ -110`  |  | ❌ | `-1u` |
-| `APP @ ULL`   | `ULL +3.5 @ -109`  | `APP 13, ULL 41` | ✅ | `+0.9u` |
-| `DUKE @ UVA`  | `UVA -10.5 @ -108` |  | ❌ | `-1u` |
-| `UCLA @ WASH` | `UCLA +2 @ -108`   |  | ❌ | `-1u` |
-| `UCF @ CINN`  | `UCF +19.5 @ -108` |  | ❌ | `-1u` |
-| `UK @ UGA`    | `UK +23.5 @ -109`  |  | ❌ | `-1u` |
+| `MSU @ IND`   | `MSU -5 @ -102`    | `MSU 20, IND 15`   | ✋ | `0u`    |
+| `NEB @ MINN`  | `NEB -3.5 @ -116`  | `NEB 23, MINN 30`  | ❌ | `-1u`   |
+| `RUT @ NW`    | `RUT -2 @ -109`    | `RUT 7, NW 21`     | ❌ | `-1u`   |
+| `PUR @ IOWA`  | `PUR +12 @ -108`   | `PUR 24, IOWA 7`   | ✅ | `+0.9u` |
+| `ARMY @ WISC` | `ARMY +13 @ -110`  | `ARMY 14, WISC 20` | ✅ | `+0.9u` |
+| `APP @ ULL`   | `ULL +3.5 @ -109`  | `APP 13, ULL 41`   | ✅ | `+0.9u` |
+| `DUKE @ UVA`  | `UVA -10.5 @ -108` | `DUKE 0, UVA 48`   | ✅ | `+0.9u` |
+| `UCLA @ WASH` | `UCLA +2 @ -108`   | `UCLA 24, WASH 17` | ✅ | `+0.9u` |
+| `UCF @ CINN`  | `UCF +19.5 @ -108` | `UCF 21, CINN 56`  | ❌ | `-1u`   |
+| `UK @ UGA`    | `UK +23.5 @ -109`  | `UK 13, UGA 30`    | ✅ | `+0.9u` |
 
 |          | Total | Correct | % Correct | Return  |
 | :------- | :---: | :-----: | :-------: | :----:  |
-| **All**  | 10    | 0       | 0.0%     | `-10u`   |
-| **B1G**  | 5     | 0       | 0.0%     | `-5u`    |
+| **All**  | 10    | 7       | 70.0%     | `+2.4u` |
+| **B1G**  | 5     | 3       | 60.0%     | `-0.2u` |
+
+## Week 8
+
+| Game | Point Spread | Final Score | Status | Payout |
+| :--- | :----------- | :---------: | :----: | :----: |
+| `ILL @ PSU`  ||| ❌ | `-1u` |
+| `NW @ MICH`  ||| ❌ | `-1u` |
+| `WISC @ PUR` ||| ❌ | `-1u` |
+| `MD @ MINN`  ||| ❌ | `-1u` |
+| `OSU @ IND`  ||| ❌ | `-1u` |
+| `?` ||| ❌ | `-1u` |
+| `?` ||| ❌ | `-1u` |
+| `?` ||| ❌ | `-1u` |
+| `?` ||| ❌ | `-1u` |
+| `?` ||| ❌ | `-1u` |
+
+|          | Total | Correct | % Correct | Return  |
+| :------- | :---: | :-----: | :-------: | :----:  |
+| **All**  | 10    | 0       | 0.0%     | `-10u` |
+| **B1G**  | 5     | 0       | 0.0%     | `-5u` |
