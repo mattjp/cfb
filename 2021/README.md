@@ -2,27 +2,27 @@
 
 |          | Total | Correct | % Correct | Return  |
 | :------- | :---: | :-----: | :-------: | :----:  |
-| **All**  | 91    | 49      | 53.8%     | `+0.6u` |
-| **B1G**  | 65    | 37      | 56.9%     | `+3.6u` |
+| **All**  | 101   | 53      | 52.5%     | `-1.4u` |
+| **B1G**  | 70    | 39      | 55.7%     | `+2.4u` |
 
 ## Futures
 
 | Team | Regular Season Wins | Record | Status | Payout |
 | :--- | :------------------ | :----: | :----: | :----: |
-| Illinois       | `Over 3.5 @ -135`  | `2-5` | ❌ | `-1u`    |
-| Indiana        | `Over 7.5 @ -120`  | `2-4` | ❌ | `-1u`    |
+| Illinois       | `Over 3.5 @ -135`  | `3-5` | ❌ | `-1u`    |
+| Indiana        | `Over 7.5 @ -120`  | `2-5` | ❌ | `-1u`    |
 | Iowa           | `Under 8.5 @ -120` | `6-1` | ❌ | `-1u`    |
-| Maryland       | `Over 5.5 @ -141`  | `4-2` | ❌ | `-1u`    |
-| Michigan       | `Over 7.5 @ -135`  | `6-0` | ❌ | `-1u`    |
+| Maryland       | `Over 5.5 @ -141`  | `4-3` | ❌ | `-1u`    |
+| Michigan       | `Over 7.5 @ -135`  | `7-0` | ❌ | `-1u`    |
 | Michigan State | `Over 5 @ -125`    | `7-0` | ✅ | `+0.75u` |
-| Minnesota      | `Under 7.5 @ -156` | `4-2` | ❌ | `-1u`    |
+| Minnesota      | `Under 7.5 @ -156` | `5-2` | ❌ | `-1u`    |
 | Nebraska       | `Under 6.5 @ -141` | `3-5` | ❌ | `-1u`    |
-| Northwestern   | `Over 6.5 @ -106`  | `3-3` | ❌ | `-1u`    |
-| Ohio State     | `Over 11.5 @ +130` | `5-1` | ❌ | `-1u`    |
-| Penn State     | `Over 8.5 @ -125`  | `5-1` | ❌ | `-1u`    |
-| Purdue         | `Under 5.5 @ -104` | `4-2` | ❌ | `-1u`    |
+| Northwestern   | `Over 6.5 @ -106`  | `3-4` | ❌ | `-1u`    |
+| Ohio State     | `Over 11.5 @ +130` | `6-1` | ❌ | `-1u`    |
+| Penn State     | `Over 8.5 @ -125`  | `5-2` | ❌ | `-1u`    |
+| Purdue         | `Under 5.5 @ -104` | `4-3` | ❌ | `-1u`    |
 | Rutgers        | `Over 4.5 @ +105`  | `3-4` | ❌ | `-1u`    |
-| Wisconsin      | `Over 9.5 @ -105`  | `3-3` | ❌ | `-1u`    |
+| Wisconsin      | `Over 9.5 @ -105`  | `4-3` | ❌ | `-1u`    |
 | | | | | `-12.25u` |
 
 ## Week 0
@@ -200,18 +200,34 @@
 
 | Game | Point Spread | Final Score | Status | Payout |
 | :--- | :----------- | :---------: | :----: | :----: |
-| `ILL @ PSU`  | `ILL +23 @ -109`  || ❌ | `-1u` |
-| `NW @ MICH`  | `NW +21.5 @ -105` || ❌ | `-1u` |
-| `WISC @ PUR` | `PUR +3 @ -101`   || ❌ | `-1u` |
-| `MD @ MINN`  | `MD +5.5 @ -110`  || ❌ | `-1u` |
-| `OSU @ IND`  | `OSU -19 @ -108`  || ❌ | `-1u` |
-| `CCU @ APP`  | `CCU -3.5 @ -109` || ❌ | `-1u` |
-| `UO @ UCLA`  | `UO +2.5 @ -103`  || ❌ | `-1u` |
-| `OKST @ ISU` | `OKST +7 @ -105`  || ❌ | `-1u` |
-| `BYU @ WSU`  | `BYU -2.5 @ -110` || ❌ | `-1u` |
-| `USC @ ND`   | `USC +7 @ -112`   || ❌ | `-1u` |
+| `ILL @ PSU`  | `ILL +23 @ -109`  | `ILL 20, PSU 18`  | ✅ | `+0.9u` |
+| `NW @ MICH`  | `NW +21.5 @ -105` | `NW 7, MICH 33`   | ❌ | `-1u`   |
+| `WISC @ PUR` | `PUR +3 @ -101`   | `WISC 30, PUR 13` | ❌ | `-1u`   |
+| `MD @ MINN`  | `MD +5.5 @ -110`  | `MD 16, MINN 34`  | ❌ | `-1u`   |
+| `OSU @ IND`  | `OSU -19 @ -108`  | `OSU 54, IND 7`   | ✅ | `+0.9u` |
+| `CCU @ APP`  | `CCU -3.5 @ -109` | `CCU 27, APP 30`  | ❌ | `-1u`   |
+| `UO @ UCLA`  | `UO +2.5 @ -103`  | `UO 34, UCLA 31`  | ✅ | `+1u`   |
+| `OKST @ ISU` | `OKST +7 @ -105`  | `OKST 21, ISU 24` | ✅ | `+1u`   |
+| `BYU @ WSU`  | `BYU -2.5 @ -110` | `BYU 21, WSU 19`  | ❌ | `-1u`   |
+| `USC @ ND`   | `USC +7 @ -112`   | `USC 16, ND 31`   | ❌ | `-1u`   |
 
 |          | Total | Correct | % Correct | Return  |
 | :------- | :---: | :-----: | :-------: | :----:  |
-| **All**  | 10    | 0       | 0.0%     | `-10u` |
-| **B1G**  | 5     | 0       | 0.0%     | `-5u` |
+| **All**  | 10    | 4       | 40.0%     | `-2.2u` |
+| **B1G**  | 5     | 2       | 40.0%     | `-1.2u` |
+
+## Week 9
+
+| Game | Point Spread | Final Score | Status | Payout |
+| :--- | :----------- | :---------: | :----: | :----: |
+| `IOWA @ WISC` | `` | `` | ❌ | `-1u` |
+| `RUT @ ILL`   | `` | `` | ❌ | `-1u` |
+| `MINN @ NW`   | `` | `` | ❌ | `-1u` |
+| `IND @ MD`    | `` | `` | ❌ | `-1u` |
+| `PUR @ NEB`   | `` | `` | ❌ | `-1u` |
+| `MICH @ MSU`  | `` | `` | ❌ | `-1u` |
+| `PSU @ OSU`   | `` | `` | ❌ | `-1u` |
+| `UGA vs UF`   | `` | `` | ❌ | `-1u` |
+| `?` | `` | `` | ❌ | `-1u` |
+| `?` | `` | `` | ❌ | `-1u` |
+| `?` | `` | `` | ❌ | `-1u` |
