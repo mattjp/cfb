@@ -282,14 +282,18 @@
 
 | Game | Point Spread | Final Score | Status | Payout |
 | :--- | :----------- | :---------: | :----: | :----: |
-| `MSU @ OSU`  | `spread` | `score` | ❌ | `-1u` |
-| `RUT @ PSU`  | `spread` | `score` | ❌ | `-1u` |
-| `PUR @ NW`   | `spread` | `score` | ❌ | `-1u` |
-| `ILL @ IOWA` | `spread` | `score` | ❌ | `-1u` |
-| `MINN @ IND` | `spread` | `score` | ❌ | `-1u` |
-| `MICH @ MD`  | `spread` | `score` | ❌ | `-1u` |
-| `NEB @ WISC` | `spread` | `score` | ❌ | `-1u` |
-| `game` | `spread` | `score` | ❌ | `-1u` |
+| `MSU @ OSU`  | `OSU -19` | `score` | ❌ | `-1u` |
+| `RUT @ PSU`  | `RUT +17` | `score` | ❌ | `-1u` |
+| `PUR @ NW`   | `PUR -11` | `score` | ❌ | `-1u` |
+| `ILL @ IOWA` | `ILL + 12.5` | `score` | ❌ | `-1u` |
+| `MINN @ IND` | `MINN -7.5` | `score` | ❌ | `-1u` |
+| `MICH @ MD`  | `MICH -14.5` | `score` | ❌ | `-1u` |
+| `NEB @ WISC` | `NEB +9` | `score` | ❌ | `-1u` |
+| `WF @ CLEM`  | `WF +4.5` | `score` | ❌ | `-1u` |
+| `ISU @ OU`   | `ISU +3.5` | `score` | ❌ | `-1u` |
+| `ARK @ AL`   | `ARK +20.5` | `score` | ❌ | `-1u` |
+| `UVA @ PITT` | `UVA +14.5` | `score` | ❌ | `-1u` |
+| `UK @ TCU` | `UK +21` | `score` | ❌ | `-1u` |
 
 |          | Total | Correct | % Correct | Return  |
 | :------- | :---: | :-----: | :-------: | :----:  |
