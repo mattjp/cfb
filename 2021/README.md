@@ -284,18 +284,20 @@
 | :--- | :----------- | :---------: | :----: | :----: |
 | `MSU @ OSU`  | `OSU -19` | `score` | ❌ | `-1u` |
 | `RUT @ PSU`  | `RUT +17` | `score` | ❌ | `-1u` |
-| `PUR @ NW`   | `PUR -11` | `score` | ❌ | `-1u` |
-| `ILL @ IOWA` | `ILL + 12.5` | `score` | ❌ | `-1u` |
-| `MINN @ IND` | `MINN -7.5` | `score` | ❌ | `-1u` |
-| `MICH @ MD`  | `MICH -14.5` | `score` | ❌ | `-1u` |
-| `NEB @ WISC` | `NEB +9` | `score` | ❌ | `-1u` |
-| `WF @ CLEM`  | `WF +4.5` | `score` | ❌ | `-1u` |
-| `ISU @ OU`   | `ISU +3.5` | `score` | ❌ | `-1u` |
-| `ARK @ AL`   | `ARK +20.5` | `score` | ❌ | `-1u` |
-| `UVA @ PITT` | `UVA +14.5` | `score` | ❌ | `-1u` |
-| `UK @ TCU` | `UK +21` | `score` | ❌ | `-1u` |
+| `PUR @ NW`   | `PUR -11 @ -108`   | `score` | ❌ | `-1u` |
+| `ILL @ IOWA` | `ILL +12.5` | `score` | ❌ | `-1u` |
+| `MINN @ IND` | `MINN -7.5 @ -110` | `score` | ❌ | `-1u` |
+| `MICH @ MD`  | `MICH -15 @ -108`  | `score` | ❌ | `-1u` |
+| `NEB @ WISC` | `WISC -9 @ -108`   | `score` | ❌ | `-1u` |
+| `WF @ CLEM`  | `WF +4.5 @ -108`   | `score` | ❌ | `-1u` |
+| `ISU @ OU`   | `ISU +3.5 @ -105`  | `score` | ❌ | `-1u` |
+| `ARK @ AL`   | `ARK +20.5 @ -103` | `score` | ❌ | `-1u` |
+| `UVA @ PITT` | `UVA +14.5 @ -103` | `score` | ❌ | `-1u` |
+| `KU @ TCU`   | `KU +21 @ -109`    | `score` | ❌ | `-1u` |
+| `UT @ WVU`   | `WVU -3 @ -108`    | `score` | ❌ | `-1u` |
+| `UO @ UTAH`  | `UO +3 @ -104`     | `score` | ❌ | `-1u` |
 
 |          | Total | Correct | % Correct | Return  |
 | :------- | :---: | :-----: | :-------: | :----:  |
-| **All**  | 8     | 4       | 50.0%     | `-0.3u` |
-| **B1G**  | 6     | 2       | 33.3%     | `-2.1u` |
+| **All**  | 14    | 0       | 0.0%      | `-14u`  |
+| **B1G**  | 7     | 0       | 0.0%      | `-7u`   |
