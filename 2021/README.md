@@ -307,22 +307,28 @@
 | Game | Point Spread | Final Score | Status | Payout |
 | :--- | :----------- | :---------: | :----: | :----: |
 | `IOWA @ NEB`  | `IOWA -2 @ -108`   | `score` | ❌ | `-1u`   |
-| `OSU @ MICH`  | `spread` | `score` | ❌ | `-1u`   |
-| `WISC @ MINN` | `spread` | `score` | ❌ | `-1u`   |
-| `NW @ ILL`    | `spread` | `score` | ❌ | `-1u`   |
-| `IND @ PUR`   | `spread` | `score` | ❌ | `-1u`   |
-| `MD @ RUT`    | `spread` | `score` | ❌ | `-1u`   |
-| `PSU @ MSU`   | `spread` | `score` | ❌ | `-1u`   |
-| `AL @ AUB`    | `spread` | `score` | ❌ | `-1u`   |
-| `OSU @ UO`    | `spread` | `score` | ❌ | `-1u`   |
-| `VT @ UVA`    | `spread` | `score` | ❌ | `-1u`   |
-| `TAMU @ LSU`  | `spread` | `score` | ❌ | `-1u`   |
-| `OU @ OKST`   | `spread` | `score` | ❌ | `-1u`   |
+| `OSU @ MICH`  | `OSU -8` | `score` | ❌ | `-1u`   |
+| `WISC @ MINN` | `WISC -7` | `score` | ❌ | `-1u`   |
+| `NW @ ILL`    | `ILL -6.5` | `score` | ❌ | `-1u`   |
+| `IND @ PUR`   | `PUR -14.5` | `score` | ❌ | `-1u`   |
+| `MD @ RUT`    | `MD -2.5` | `score` | ❌ | `-1u`   |
+| `PSU @ MSU`   | `MSU +2` | `score` | ❌ | `-1u`   |
+| `AL @ AUB`    | `AUB +19.5` | `score` | ❌ | `-1u`   |
+| `OSU @ UO`    | `OSU +7` | `score` | ❌ | `-1u`   |
+| `VT @ UVA`    | `VT +7` | `score` | ❌ | `-1u`   |
+| `TAMU @ LSU`  | `LSU +6.5` | `score` | ❌ | `-1u`   |
+| `OU @ OKST`   | `OKST -5.5` | `score` | ❌ | `-1u`   |
 | `MISS @ MS`   | `MISS +1.5 @ -106` | `score` | ❌ | `-1u`   |
 | `CIN @ ECU`   | `CIN -14 @ -109`   | `score` | ❌ | `-1u`   |
 | `WSU @ UW`    | `WSU -1 @ -109`    | `score` | ❌ | `-1u`   |
 | `USF @ UCF`   | `USF +18.5 @ -109` | `score` | ❌ | `-1u`   |
 | `TCU @ ISU`   | `TCU +14.5 @ -105` | `score` | ❌ | `-1u`   |
+| `FSU @ UF`    | `FSU +3` | `score` | ❌ | `-1u`   |
+| `UGA @ GT`    | `UGA -35.5` | `score` | ❌ | `-1u`   |
+| `AZ @ ASU`    | `AZ +20` | `score` | ❌ | `-1u`   |
+| `UK @ UL`     | `UL -3` | `score` | ❌ | `-1u`   |
+| `CLEM @ SCAR` | `SCAR +11.5` | `score` | ❌ | `-1u`   |
+| `ND @ STAN`   | `ND -19.5` | `score` | ❌ | `-1u`   |
 
 |          | Total | Correct | % Correct | Return  |
 | :------- | :---: | :-----: | :-------: | :----:  |
