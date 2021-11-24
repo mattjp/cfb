@@ -306,7 +306,7 @@
 
 | Game | Point Spread | Final Score | Status | Payout |
 | :--- | :----------- | :---------: | :----: | :----: |
-| `IOWA @ NEB`  | `spread` | `score` | ❌ | `-1u`   |
+| `IOWA @ NEB`  | `IOWA -2 @ -108`   | `score` | ❌ | `-1u`   |
 | `OSU @ MICH`  | `spread` | `score` | ❌ | `-1u`   |
 | `WISC @ MINN` | `spread` | `score` | ❌ | `-1u`   |
 | `NW @ ILL`    | `spread` | `score` | ❌ | `-1u`   |
@@ -318,10 +318,11 @@
 | `VT @ UVA`    | `spread` | `score` | ❌ | `-1u`   |
 | `TAMU @ LSU`  | `spread` | `score` | ❌ | `-1u`   |
 | `OU @ OKST`   | `spread` | `score` | ❌ | `-1u`   |
-| `game` | `spread` | `score` | ❌ | `-1u`   |
-| `game` | `spread` | `score` | ❌ | `-1u`   |
-| `game` | `spread` | `score` | ❌ | `-1u`   |
-| `game` | `spread` | `score` | ❌ | `-1u`   |
+| `MISS @ MS`   | `MISS +1.5 @ -106` | `score` | ❌ | `-1u`   |
+| `CIN @ ECU`   | `CIN -14 @ -109`   | `score` | ❌ | `-1u`   |
+| `WSU @ UW`    | `WSU -1 @ -109`    | `score` | ❌ | `-1u`   |
+| `USF @ UCF`   | `USF +18.5 @ -109` | `score` | ❌ | `-1u`   |
+| `TCU @ ISU`   | `TCU +14.5 @ -105` | `score` | ❌ | `-1u`   |
 
 |          | Total | Correct | % Correct | Return  |
 | :------- | :---: | :-----: | :-------: | :----:  |
