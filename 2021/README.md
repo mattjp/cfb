@@ -307,8 +307,8 @@
 | Game | Point Spread | Final Score | Status | Payout |
 | :--- | :----------- | :---------: | :----: | :----: |
 | `IOWA @ NEB`  | `IOWA -2 @ -108`   | `score` | ❌ | `-1u`   |
-| `OSU @ MICH`  | `OSU -8` | `score` | ❌ | `-1u`   |
-| `WISC @ MINN` | `WISC -7` | `score` | ❌ | `-1u`   |
+| `OSU @ MICH`  | `OSU -8 @ -103`    | `score` | ❌ | `-1u`   |
+| `WISC @ MINN` | `WISC -7 @ -111`   | `score` | ❌ | `-1u`   |
 | `NW @ ILL`    | `ILL -6.5` | `score` | ❌ | `-1u`   |
 | `IND @ PUR`   | `PUR -14.5` | `score` | ❌ | `-1u`   |
 | `MD @ RUT`    | `MD -2.5` | `score` | ❌ | `-1u`   |
@@ -324,11 +324,11 @@
 | `USF @ UCF`   | `USF +18.5 @ -109` | `score` | ❌ | `-1u`   |
 | `TCU @ ISU`   | `TCU +14.5 @ -105` | `score` | ❌ | `-1u`   |
 | `FSU @ UF`    | `FSU +3` | `score` | ❌ | `-1u`   |
-| `UGA @ GT`    | `UGA -35.5` | `score` | ❌ | `-1u`   |
+| `UGA @ GT`    | `UGA -35.5 @ -105` | `score` | ❌ | `-1u`   |
 | `AZ @ ASU`    | `AZ +20` | `score` | ❌ | `-1u`   |
 | `UK @ UL`     | `UL -3` | `score` | ❌ | `-1u`   |
 | `CLEM @ SCAR` | `SCAR +11.5` | `score` | ❌ | `-1u`   |
-| `ND @ STAN`   | `ND -19.5` | `score` | ❌ | `-1u`   |
+| `ND @ STAN`   | `ND -19.5 @ -105`  | `score` | ❌ | `-1u`   |
 
 |          | Total | Correct | % Correct | Return  |
 | :------- | :---: | :-----: | :-------: | :----:  |
