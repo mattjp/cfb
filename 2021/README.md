@@ -318,11 +318,11 @@
 | `VT @ UVA`    | `VT +7 @ -110`     | `score` | ❌ | `-1u` |
 | `TAMU @ LSU`  | `LSU +6.5 @ -105`  | `score` | ❌ | `-1u` |
 | `OU @ OKST`   | `OKST -4.5 @ -106` | `score` | ❌ | `-1u` |
-| `MISS @ MS`   | `MISS +1.5 @ -106` | `MISS 31, MS 21` | ✅ | `+0.9u` |
-| `CIN @ ECU`   | `CIN -14 @ -109`   | `CIN 35, ECU 13` | ✅ | `+0.9u` |
-| `WSU @ UW`    | `WSU -1 @ -109`    | `score` | ❌ | `-1u` |
-| `USF @ UCF`   | `USF +18.5 @ -109` | `USF 13, UCF 17` | ✅ | `+0.9u` |
-| `TCU @ ISU`   | `TCU +14.5 @ -105` | `score` | ❌ | `-1u` |
+| `MISS @ MS`   | `MISS +1.5 @ -106` | `MISS 31, MS 21`  | ✅ | `+0.9u` |
+| `CIN @ ECU`   | `CIN -14 @ -109`   | `CIN 35, ECU 13`  | ✅ | `+0.9u` |
+| `WSU @ UW`    | `WSU -1 @ -109`    | `WSU 40, UW 13`   | ✅ | `+0.9u` |
+| `USF @ UCF`   | `USF +18.5 @ -109` | `USF 13, UCF 17`  | ✅ | `+0.9u` |
+| `TCU @ ISU`   | `TCU +14.5 @ -105` | `TCU 14, ISU 48`  | ❌ | `-1u`   |
 | `FSU @ UF`    | `FSU +3 @ -103`    | `score` | ❌ | `-1u` |
 | `UGA @ GT`    | `UGA -35.5 @ -105` | `score` | ❌ | `-1u` |
 | `AZ @ ASU`    | `AZ +20 @ -105`    | `score` | ❌ | `-1u` |
