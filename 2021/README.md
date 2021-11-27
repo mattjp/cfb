@@ -306,31 +306,31 @@
 
 | Game | Point Spread | Final Score | Status | Payout |
 | :--- | :----------- | :---------: | :----: | :----: |
-| `IOWA @ NEB`  | `IOWA -2 @ -108`   | `score` | ❌ | `-1u`   |
-| `OSU @ MICH`  | `OSU -8 @ -103`    | `score` | ❌ | `-1u`   |
-| `WISC @ MINN` | `WISC -7 @ -111`   | `score` | ❌ | `-1u`   |
-| `NW @ ILL`    | `ILL -6.5` | `score` | ❌ | `-1u`   |
-| `IND @ PUR`   | `PUR -14.5` | `score` | ❌ | `-1u`   |
-| `MD @ RUT`    | `MD -2.5` | `score` | ❌ | `-1u`   |
-| `PSU @ MSU`   | `MSU +2` | `score` | ❌ | `-1u`   |
-| `AL @ AUB`    | `AUB +19.5` | `score` | ❌ | `-1u`   |
-| `OSU @ UO`    | `OSU +7` | `score` | ❌ | `-1u`   |
-| `VT @ UVA`    | `VT +7` | `score` | ❌ | `-1u`   |
-| `TAMU @ LSU`  | `LSU +6.5` | `score` | ❌ | `-1u`   |
-| `OU @ OKST`   | `OKST -5.5` | `score` | ❌ | `-1u`   |
-| `MISS @ MS`   | `MISS +1.5 @ -106` | `score` | ❌ | `-1u`   |
-| `CIN @ ECU`   | `CIN -14 @ -109`   | `score` | ❌ | `-1u`   |
-| `WSU @ UW`    | `WSU -1 @ -109`    | `score` | ❌ | `-1u`   |
-| `USF @ UCF`   | `USF +18.5 @ -109` | `score` | ❌ | `-1u`   |
-| `TCU @ ISU`   | `TCU +14.5 @ -105` | `score` | ❌ | `-1u`   |
-| `FSU @ UF`    | `FSU +3` | `score` | ❌ | `-1u`   |
-| `UGA @ GT`    | `UGA -35.5 @ -105` | `score` | ❌ | `-1u`   |
-| `AZ @ ASU`    | `AZ +20` | `score` | ❌ | `-1u`   |
-| `UK @ UL`     | `UL -3` | `score` | ❌ | `-1u`   |
-| `CLEM @ SCAR` | `SCAR +11.5` | `score` | ❌ | `-1u`   |
-| `ND @ STAN`   | `ND -19.5 @ -105`  | `score` | ❌ | `-1u`   |
+| `IOWA @ NEB`  | `IOWA -2 @ -108`   | `IOWA 28, NEB 21` | ✅ | `+0.9u` |
+| `OSU @ MICH`  | `OSU -8 @ -103`    | `score` | ❌ | `-1u` |
+| `WISC @ MINN` | `WISC -7 @ -111`   | `score` | ❌ | `-1u` |
+| `NW @ ILL`    | `ILL -6.5 @ -110`  | `score` | ❌ | `-1u` |
+| `IND @ PUR`   | `PUR -15.5 @ -105` | `score` | ❌ | `-1u` |
+| `MD @ RUT`    | `MD -1.5 @ -109`   | `score` | ❌ | `-1u` |
+| `PSU @ MSU`   | `MSU +4 @ -103`    | `score` | ❌ | `-1u` |
+| `AL @ AUB`    | `AUB +20.5 @ -110` | `score` | ❌ | `-1u` |
+| `OSU @ UO`    | `OSU +7 @ -108`    | `score` | ❌ | `-1u` |
+| `VT @ UVA`    | `VT +7 @ -110`     | `score` | ❌ | `-1u` |
+| `TAMU @ LSU`  | `LSU +6.5 @ -105`  | `score` | ❌ | `-1u` |
+| `OU @ OKST`   | `OKST -4.5 @ -106` | `score` | ❌ | `-1u` |
+| `MISS @ MS`   | `MISS +1.5 @ -106` | `MISS 31, MS 21` | ✅ | `+0.9u` |
+| `CIN @ ECU`   | `CIN -14 @ -109`   | `CIN 35, ECU 13` | ✅ | `+0.9u` |
+| `WSU @ UW`    | `WSU -1 @ -109`    | `score` | ❌ | `-1u` |
+| `USF @ UCF`   | `USF +18.5 @ -109` | `USF 13, UCF 17` | ✅ | `+0.9u` |
+| `TCU @ ISU`   | `TCU +14.5 @ -105` | `score` | ❌ | `-1u` |
+| `FSU @ UF`    | `FSU +3 @ -103`    | `score` | ❌ | `-1u` |
+| `UGA @ GT`    | `UGA -35.5 @ -105` | `score` | ❌ | `-1u` |
+| `AZ @ ASU`    | `AZ +20 @ -105`    | `score` | ❌ | `-1u` |
+| `UK @ UL`     | `UL -3 @ -101`     | `score` | ❌ | `-1u` |
+| `CLEM @ SCAR` | `SCAR +11 @ -108`  | `score` | ❌ | `-1u` |
+| `ND @ STAN`   | `ND -19.5 @ -105`  | `score` | ❌ | `-1u` |
 
 |          | Total | Correct | % Correct | Return  |
 | :------- | :---: | :-----: | :-------: | :----:  |
-| **All**  | 0     | 0       | 0.0%      | `+0u`   |
-| **B1G**  | 0     | 0       | 0.0%      | `+0u`   |
+| **All**  | 23    | 0       | 0.0%      | `+0u`   |
+| **B1G**  | 7     | 0       | 0.0%      | `+0u`   |
