@@ -3,7 +3,7 @@
 |          | Total | Correct | % Correct | Return  |
 | :------- | :---: | :-----: | :-------: | :----:  |
 | **All**  | 146   | 76      | 52.1%     | `-2.3u` |
-| **B1G**  | 97    | 53      | 54.6%     | `+2.2u` |
+| **B1G**  | 104   | 58      | 55.8%     | `+4.8u` |
 
 ## Futures
 
@@ -306,26 +306,26 @@
 
 | Game | Point Spread | Final Score | Status | Payout |
 | :--- | :----------- | :---------: | :----: | :----: |
-| `IOWA @ NEB`  | `IOWA -2 @ -108`   | `IOWA 28, NEB 21` | ✅ | `+0.9u` |
-| `OSU @ MICH`  | `OSU -8 @ -103`    | `score` | ❌ | `-1u` |
-| `WISC @ MINN` | `WISC -7 @ -111`   | `score` | ❌ | `-1u` |
-| `NW @ ILL`    | `ILL -6.5 @ -110`  | `score` | ❌ | `-1u` |
-| `IND @ PUR`   | `PUR -15.5 @ -105` | `score` | ❌ | `-1u` |
-| `MD @ RUT`    | `MD -1.5 @ -109`   | `score` | ❌ | `-1u` |
-| `PSU @ MSU`   | `MSU +4 @ -103`    | `score` | ❌ | `-1u` |
-| `AL @ AUB`    | `AUB +20.5 @ -110` | `score` | ❌ | `-1u` |
-| `OSU @ UO`    | `OSU +7 @ -108`    | `score` | ❌ | `-1u` |
-| `VT @ UVA`    | `VT +7 @ -110`     | `score` | ❌ | `-1u` |
+| `IOWA @ NEB`  | `IOWA -2 @ -108`   | `IOWA 28, NEB 21`  | ✅ | `+0.9u` |
+| `OSU @ MICH`  | `OSU -8 @ -103`    | `OSU 27, MICH 42`  | ❌ | `-1u`   |
+| `WISC @ MINN` | `WISC -7 @ -111`   | `WISC 13, MINN 23` | ❌ | `-1u`   |
+| `NW @ ILL`    | `ILL -6.5 @ -110`  | `NW 14, ILL 47`    | ✅ | `+0.9u` |
+| `IND @ PUR`   | `PUR -15.5 @ -105` | `IND 7, PUR 44`    | ✅ | `+0.9u` |
+| `MD @ RUT`    | `MD -1.5 @ -109`   | `MD 40, RUT 16`    | ✅ | `+0.9u` |
+| `PSU @ MSU`   | `MSU +4 @ -103`    | `PSU 27, MSU 30`   | ✅ | `+1u`   |
+| `AL @ AUB`    | `AUB +20.5 @ -110` | `AL 24, AUB 22`    | ✅ | `+0.9u` |
+| `OSU @ UO`    | `OSU +7 @ -108`    | `OSU 29, UO 38`    | ❌ | `-1u`   |
+| `VT @ UVA`    | `VT +7 @ -110`     | `VT 29, UVA 24`    | ✅ | `+0.9u` |
 | `TAMU @ LSU`  | `LSU +6.5 @ -105`  | `score` | ❌ | `-1u` |
 | `OU @ OKST`   | `OKST -4.5 @ -106` | `score` | ❌ | `-1u` |
-| `MISS @ MS`   | `MISS +1.5 @ -106` | `MISS 31, MS 21`  | ✅ | `+0.9u` |
-| `CIN @ ECU`   | `CIN -14 @ -109`   | `CIN 35, ECU 13`  | ✅ | `+0.9u` |
-| `WSU @ UW`    | `WSU -1 @ -109`    | `WSU 40, UW 13`   | ✅ | `+0.9u` |
-| `USF @ UCF`   | `USF +18.5 @ -109` | `USF 13, UCF 17`  | ✅ | `+0.9u` |
-| `TCU @ ISU`   | `TCU +14.5 @ -105` | `TCU 14, ISU 48`  | ❌ | `-1u`   |
-| `FSU @ UF`    | `FSU +3 @ -103`    | `score` | ❌ | `-1u` |
-| `UGA @ GT`    | `UGA -35.5 @ -105` | `score` | ❌ | `-1u` |
-| `AZ @ ASU`    | `AZ +20 @ -105`    | `score` | ❌ | `-1u` |
+| `MISS @ MS`   | `MISS +1.5 @ -106` | `MISS 31, MS 21`   | ✅ | `+0.9u` |
+| `CIN @ ECU`   | `CIN -14 @ -109`   | `CIN 35, ECU 13`   | ✅ | `+0.9u` |
+| `WSU @ UW`    | `WSU -1 @ -109`    | `WSU 40, UW 13`    | ✅ | `+0.9u` |
+| `USF @ UCF`   | `USF +18.5 @ -109` | `USF 13, UCF 17`   | ✅ | `+0.9u` |
+| `TCU @ ISU`   | `TCU +14.5 @ -105` | `TCU 14, ISU 48`   | ❌ | `-1u`   |
+| `FSU @ UF`    | `FSU +3 @ -103`    | `FSU 21, UF 24`    | ✋ | `+0u`   |
+| `UGA @ GT`    | `UGA -35.5 @ -105` | `UGA 45, GT 0`     | ✅ | `+0.9u` |
+| `AZ @ ASU`    | `AZ +20 @ -105`    | `AZ 15, ASU 38`    | ❌ | `-1u`   |
 | `UK @ UL`     | `UL -3 @ -101`     | `score` | ❌ | `-1u` |
 | `CLEM @ SCAR` | `SCAR +11 @ -108`  | `score` | ❌ | `-1u` |
 | `ND @ STAN`   | `ND -19.5 @ -105`  | `score` | ❌ | `-1u` |
@@ -333,4 +333,4 @@
 |          | Total | Correct | % Correct | Return  |
 | :------- | :---: | :-----: | :-------: | :----:  |
 | **All**  | 23    | 0       | 0.0%      | `+0u`   |
-| **B1G**  | 7     | 0       | 0.0%      | `+0u`   |
+| **B1G**  | 7     | 5       | 71.4%     | `+2.6u` |
