@@ -2,28 +2,28 @@
 
 |          | Total | Correct | % Correct | Return  |
 | :------- | :---: | :-----: | :-------: | :----:  |
-| **All**  | 146   | 76      | 52.1%     | `-2.3u` |
+| **All**  | 169   | 91      | 53.8%     | `+2.4u` |
 | **B1G**  | 104   | 58      | 55.8%     | `+4.8u` |
 
 ## Futures
 
 | Team | Regular Season Wins | Record | Status | Payout |
 | :--- | :------------------ | :----: | :----: | :----: |
-| Illinois       | `Over 3.5 @ -135`  | `4-7`  | ✅ | `+0.7u`  |
-| Indiana        | `Over 7.5 @ -120`  | `2-9`  | ❌ | `-1u`    |
-| Iowa           | `Under 8.5 @ -120` | `9-2`  | ❌ | `-1u`    |
-| Maryland       | `Over 5.5 @ -141`  | `5-6`  | ❌ | `-1u`    |
-| Michigan       | `Over 7.5 @ -135`  | `10-1` | ✅ | `+0.7u`  |
-| Michigan State | `Over 5 @ -125`    | `9-2`  | ✅ | `+0.8u`  |
-| Minnesota      | `Under 7.5 @ -156` | `7-4`  | ❌ | `-1u`    |
-| Nebraska       | `Under 6.5 @ -141` | `3-8`  | ✅ | `+0.7u`  |
-| Northwestern   | `Over 6.5 @ -106`  | `3-8`  | ❌ | `-1u`    |
-| Ohio State     | `Over 11.5 @ +130` | `10-1` | ❌ | `-1u`    |
-| Penn State     | `Over 8.5 @ -125`  | `7-4`  | ❌ | `-1u`    |
-| Purdue         | `Under 5.5 @ -104` | `7-4`  | ❌ | `-1u`    |
-| Rutgers        | `Over 4.5 @ +105`  | `5-6`  | ✅ | `+1u`    |
-| Wisconsin      | `Over 9.5 @ -105`  | `8-3`  | ❌ | `-1u`    |
-| | | | | `-5.1u` |
+| Illinois       | `Over 3.5 @ -135`  | `5-7`  | ✅ | `+0.7u`  |
+| Indiana        | `Over 7.5 @ -120`  | `2-10` | ❌ | `-1u`    |
+| Iowa           | `Under 8.5 @ -120` | `10-2` | ❌ | `-1u`    |
+| Maryland       | `Over 5.5 @ -141`  | `6-6`  | ✅ | `+0.7u`  |
+| Michigan       | `Over 7.5 @ -135`  | `11-1` | ✅ | `+0.7u`  |
+| Michigan State | `Over 5 @ -125`    | `10-2` | ✅ | `+0.8u`  |
+| Minnesota      | `Under 7.5 @ -156` | `8-4`  | ❌ | `-1u`    |
+| Nebraska       | `Under 6.5 @ -141` | `3-9`  | ✅ | `+0.7u`  |
+| Northwestern   | `Over 6.5 @ -106`  | `3-9`  | ❌ | `-1u`    |
+| Ohio State     | `Over 11.5 @ +130` | `10-2` | ❌ | `-1u`    |
+| Penn State     | `Over 8.5 @ -125`  | `7-5`  | ❌ | `-1u`    |
+| Purdue         | `Under 5.5 @ -104` | `8-4`  | ❌ | `-1u`    |
+| Rutgers        | `Over 4.5 @ +105`  | `5-7`  | ✅ | `+1u`    |
+| Wisconsin      | `Over 9.5 @ -105`  | `8-4`  | ❌ | `-1u`    |
+| | | | | `-3.4u` |
 
 ## Week 0
 
@@ -316,8 +316,8 @@
 | `AL @ AUB`    | `AUB +20.5 @ -110` | `AL 24, AUB 22`    | ✅ | `+0.9u` |
 | `OSU @ UO`    | `OSU +7 @ -108`    | `OSU 29, UO 38`    | ❌ | `-1u`   |
 | `VT @ UVA`    | `VT +7 @ -110`     | `VT 29, UVA 24`    | ✅ | `+0.9u` |
-| `TAMU @ LSU`  | `LSU +6.5 @ -105`  | `score` | ❌ | `-1u` |
-| `OU @ OKST`   | `OKST -4.5 @ -106` | `score` | ❌ | `-1u` |
+| `TAMU @ LSU`  | `LSU +6.5 @ -105`  | `TAMU 24, LSU 27`  | ✅ | `+0.9u` |
+| `OU @ OKST`   | `OKST -4.5 @ -106` | `OU 33, OKST 37`   | ❌ | `-1u`   |
 | `MISS @ MS`   | `MISS +1.5 @ -106` | `MISS 31, MS 21`   | ✅ | `+0.9u` |
 | `CIN @ ECU`   | `CIN -14 @ -109`   | `CIN 35, ECU 13`   | ✅ | `+0.9u` |
 | `WSU @ UW`    | `WSU -1 @ -109`    | `WSU 40, UW 13`    | ✅ | `+0.9u` |
@@ -326,11 +326,28 @@
 | `FSU @ UF`    | `FSU +3 @ -103`    | `FSU 21, UF 24`    | ✋ | `+0u`   |
 | `UGA @ GT`    | `UGA -35.5 @ -105` | `UGA 45, GT 0`     | ✅ | `+0.9u` |
 | `AZ @ ASU`    | `AZ +20 @ -105`    | `AZ 15, ASU 38`    | ❌ | `-1u`   |
-| `UK @ UL`     | `UL -3 @ -101`     | `score` | ❌ | `-1u` |
-| `CLEM @ SCAR` | `SCAR +11 @ -108`  | `score` | ❌ | `-1u` |
-| `ND @ STAN`   | `ND -19.5 @ -105`  | `score` | ❌ | `-1u` |
+| `UK @ UL`     | `UL -3 @ -101`     | `UK 52, UL 21`     | ❌ | `-1u`   |
+| `CLEM @ SCAR` | `SCAR +11 @ -108`  | `CLEM 30, SCAR 0`  | ❌ | `-1u`   |
+| `ND @ STAN`   | `ND -19.5 @ -105`  | `ND 45, STAN 14`   | ✅ | `+0.9u` |
 
 |          | Total | Correct | % Correct | Return  |
 | :------- | :---: | :-----: | :-------: | :----:  |
-| **All**  | 23    | 0       | 0.0%      | `+0u`   |
+| **All**  | 23    | 15      | 65.2%     | `+4.7u` |
 | **B1G**  | 7     | 5       | 71.4%     | `+2.6u` |
+
+## Week 14
+
+| Game | Point Spread | Final Score | Status | Payout |
+| :--- | :----------- | :---------: | :----: | :----: |
+| `MICH vs IOWA` | `spread` | `score` | ❌ | `-1u` |
+| `UO vs UTAH`   | `spread` | `score` | ❌ | `-1u` |
+| `BU vs OKST`   | `spread` | `score` | ❌ | `-1u` |
+| `APP @ UL`     | `spread` | `score` | ❌ | `-1u` |
+| `UGA vs AL`    | `spread` | `score` | ❌ | `-1u` |
+| `UH @ CIN`     | `spread` | `score` | ❌ | `-1u` |
+| `PITT vs WF`   | `spread` | `score` | ❌ | `-1u` |
+
+|          | Total | Correct | % Correct | Return  |
+| :------- | :---: | :-----: | :-------: | :----:  |
+| **All**  | 7     | 0       | 0.0%      | `-7u`   |
+| **B1G**  | 1     | 0       | 0.0%      | `-1u`   |
