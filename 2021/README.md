@@ -1,5 +1,7 @@
 # 2021 Season Tracker
 
+*One unit is bet on every game/future, unless otherwise noted.*
+
 |          | Total | Correct | % Correct | Return  |
 | :------- | :---: | :-----: | :-------: | :----:  |
 | **All**  | 169   | 91      | 53.8%     | `+2.4u` |
@@ -339,13 +341,16 @@
 
 | Game | Point Spread | Final Score | Status | Payout |
 | :--- | :----------- | :---------: | :----: | :----: |
-| `MICH vs IOWA` | `spread` | `score` | ❌ | `-1u` |
-| `UO vs UTAH`   | `spread` | `score` | ❌ | `-1u` |
-| `BU vs OKST`   | `spread` | `score` | ❌ | `-1u` |
-| `APP @ UL`     | `spread` | `score` | ❌ | `-1u` |
-| `UGA vs AL`    | `spread` | `score` | ❌ | `-1u` |
-| `UH @ CIN`     | `spread` | `score` | ❌ | `-1u` |
-| `PITT vs WF`   | `spread` | `score` | ❌ | `-1u` |
+| `MICH vs IOWA` | `MICH -11`  | `score` | ❌ | `-1u` |
+| `UO vs UTAH`   | `UTAH -3`   | `score` | ❌ | `-1u` |
+| `KSU vs NIU`   | `NIU +2.5`  | `score` | ❌ | `-1u` |
+| `USU @ SDSU`   | `SDSU -5`   | `score` | ❌ | `-1u` |
+| `BU vs OKST`   | `BU +6.5`   | `score` | ❌ | `-1u` |
+| `APP @ ULL`    | `ULL +2.5`  | `score` | ❌ | `-1u` |
+| `UGA vs AL`    | `UGA -6.5`  | `score` | ❌ | `-1u` |
+| `UH @ CIN`     | `CIN -10.5` | `score` | ❌ | `-1u` |
+| `PITT vs WF`   | `PITT -2.5` | `score` | ❌ | `-1u` |
+| `USC @ CAL`    | `USC +4`    | `score` | ❌ | `-1u` |
 
 |          | Total | Correct | % Correct | Return  |
 | :------- | :---: | :-----: | :-------: | :----:  |
