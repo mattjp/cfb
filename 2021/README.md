@@ -341,18 +341,19 @@
 
 | Game | Point Spread | Final Score | Status | Payout |
 | :--- | :----------- | :---------: | :----: | :----: |
-| `MICH vs IOWA` | `MICH -11`  | `score` | ❌ | `-1u` |
-| `UO vs UTAH`   | `UTAH -3`   | `score` | ❌ | `-1u` |
-| `KSU vs NIU`   | `NIU +2.5`  | `score` | ❌ | `-1u` |
-| `USU @ SDSU`   | `SDSU -5`   | `score` | ❌ | `-1u` |
-| `BU vs OKST`   | `BU +6.5`   | `score` | ❌ | `-1u` |
-| `APP @ ULL`    | `ULL +2.5`  | `score` | ❌ | `-1u` |
-| `UGA vs AL`    | `UGA -6.5`  | `score` | ❌ | `-1u` |
-| `UH @ CIN`     | `CIN -10.5` | `score` | ❌ | `-1u` |
-| `PITT vs WF`   | `PITT -2.5` | `score` | ❌ | `-1u` |
-| `USC @ CAL`    | `USC +4`    | `score` | ❌ | `-1u` |
+| `MICH vs IOWA` | `MICH -11 @ -108`  | `score` | ❌ | `-1u` |
+| `WKU vs UTSA`  | `UTSA +3.5 @ -108` | `score` | ❌ | `-1u` |
+| `UO vs UTAH`   | `UO +2.5 @ +100`   | `score` | ❌ | `-1u` |
+| `KSU vs NIU`   | `KSU -3.5 @ -106`  | `score` | ❌ | `-1u` |
+| `USU @ SDSU`   | `USU +6 @ -108`    | `score` | ❌ | `-1u` |
+| `BU vs OKST`   | `BU +5.5 @ -105`   | `score` | ❌ | `-1u` |
+| `APP @ ULL`    | `ULL +3 @ -110`    | `score` | ❌ | `-1u` |
+| `UGA vs AL`    | `AL +6.5 @ -103`   | `score` | ❌ | `-1u` |
+| `UH @ CIN`     | `CIN -10 @ -118`   | `score` | ❌ | `-1u` |
+| `PITT vs WF`   | `PITT -3.5 @ -110` | `score` | ❌ | `-1u` |
+| `USC @ CAL`    | `USC +4.5 @ -103`  | `score` | ❌ | `-1u` |
 
 |          | Total | Correct | % Correct | Return  |
 | :------- | :---: | :-----: | :-------: | :----:  |
-| **All**  | 7     | 0       | 0.0%      | `-7u`   |
+| **All**  | 11    | 0       | 0.0%      | `-11u`  |
 | **B1G**  | 1     | 0       | 0.0%      | `-1u`   |
