@@ -2,10 +2,28 @@
 
 *One unit is bet on every game/future, unless otherwise noted.*
 
+## Payouts
+
+### Total
+
 |          | Total | Correct | % Correct | Return  |
 | :------- | :---: | :-----: | :-------: | :----:  |
-| **All**  | 169   | 91      | 53.8%     | `+2.4u` |
-| **B1G**  | 104   | 58      | 55.8%     | `+4.8u` |
+| **All**  | 180   | 99      | 55.0%     | `+6.6u` |
+| **B1G**  | 105   | 59      | 56.2%     | `+5.7u` |
+
+### Regular Season
+
+|          | Total | Correct | % Correct | Return  |
+| :------- | :---: | :-----: | :-------: | :----:  |
+| **All**  | 180   | 99      | 55.0%     | `+6.6u` |
+| **B1G**  | 105   | 59      | 56.2%     | `+5.7u` |
+
+### Bowls
+
+|          | Total | Correct | % Correct | Return  |
+| :------- | :---: | :-----: | :-------: | :----:  |
+| **All**  | 0     | 0       | 0.0%      | `+0u`   |
+| **B1G**  | 0     | 0       | 0.0%      | `+0u`   |
 
 ## Futures
 
@@ -341,19 +359,41 @@
 
 | Game | Point Spread | Final Score | Status | Payout |
 | :--- | :----------- | :---------: | :----: | :----: |
-| `MICH vs IOWA` | `MICH -11 @ -108`  | `score` | ❌ | `-1u` |
-| `WKU vs UTSA`  | `UTSA +3.5 @ -108` | `score` | ❌ | `-1u` |
-| `UO vs UTAH`   | `UO +2.5 @ +100`   | `score` | ❌ | `-1u` |
-| `KSU vs NIU`   | `KSU -3.5 @ -106`  | `score` | ❌ | `-1u` |
-| `USU @ SDSU`   | `USU +6 @ -108`    | `score` | ❌ | `-1u` |
-| `BU vs OKST`   | `BU +5.5 @ -105`   | `score` | ❌ | `-1u` |
-| `APP @ ULL`    | `ULL +3 @ -110`    | `score` | ❌ | `-1u` |
-| `UGA vs AL`    | `AL +6.5 @ -103`   | `score` | ❌ | `-1u` |
-| `UH @ CIN`     | `CIN -10 @ -118`   | `score` | ❌ | `-1u` |
-| `PITT vs WF`   | `PITT -3.5 @ -110` | `score` | ❌ | `-1u` |
-| `USC @ CAL`    | `USC +4.5 @ -103`  | `score` | ❌ | `-1u` |
+| `MICH vs IOWA` | `MICH -11 @ -108`  | `MICH 42, IOWA 3` | ✅ | `+0.9u` |
+| `WKU vs UTSA`  | `UTSA +3.5 @ -108` | `WKU 41, UTSA 49` | ✅ | `+0.9u` |
+| `UO vs UTAH`   | `UO +2.5 @ +100`   | `UO 10, UTAH 38`  | ❌ | `-1u`   |
+| `KSU vs NIU`   | `KSU -3.5 @ -106`  | `KSU 23, NIU 41`  | ❌ | `-1u`   |
+| `USU @ SDSU`   | `USU +6 @ -108`    | `USU 46, SDSU 13` | ✅ | `+0.9u` |
+| `BU vs OKST`   | `BU +5.5 @ -105`   | `BU 21, OKST 16`  | ✅ | `+0.9u` |
+| `APP @ ULL`    | `ULL +3 @ -110`    | `APP 16, ULL 24`  | ✅ | `+0.9u` |
+| `UGA vs AL`    | `AL +6.5 @ -103`   | `UGA 24, AL 41`   | ✅ | `+1u`   |
+| `UH @ CIN`     | `CIN -10 @ -118`   | `UH 20, CIN 35`   | ✅ | `+0.8u` |
+| `PITT vs WF`   | `PITT -3.5 @ -110` | `PITT 45, WF 21`  | ✅ | `+0.9u` |
+| `USC @ CAL`    | `USC +4.5 @ -103`  | `USC 14, CAL 24`  | ❌ | `-1u`   |
 
 |          | Total | Correct | % Correct | Return  |
 | :------- | :---: | :-----: | :-------: | :----:  |
-| **All**  | 11    | 0       | 0.0%      | `-11u`  |
-| **B1G**  | 1     | 0       | 0.0%      | `-1u`   |
+| **All**  | 11    | 8       | 72.7%     | `+4.2u` |
+| **B1G**  | 1     | 1       | 100.0%    | `+0.9u` |
+
+## Week 15
+
+| Game | Point Spread | Final Score | Status | Payout |
+| :--- | :----------- | :---------: | :----: | :----: |
+| `ARMY vs NAVY` | `spread` | `score` | ❌ | `-1u` |
+
+|          | Total | Correct | % Correct | Return  |
+| :------- | :---: | :-----: | :-------: | :----:  |
+| **All**  | 1     | 0       | 0.0%      | `-1u`   |
+| **B1G**  | 0     | 0       | 0.0%      | `+0u`   |
+
+## Bowls
+
+| Game | Point Spread | Final Score | Status | Payout |
+| :--- | :----------- | :---------: | :----: | :----: |
+| `game` | `spread` | `score` | ❌ | `-1u` |
+
+|          | Total | Correct | % Correct | Return  |
+| :------- | :---: | :-----: | :-------: | :----:  |
+| **All**  | 0     | 0       | 0.0%      | `+0u`   |
+| **B1G**  | 0     | 0       | 0.0%      | `+0u`   |
