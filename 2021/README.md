@@ -390,7 +390,7 @@
 ## Bowls
 
 | Date | Game | Point Spread | Final Score | Status | Payout |
-| :--- | :----------- | :---------: | :----: | :----: |
+| :--- | :--- | :----------- | :---------: | :----: | :----: |
 | Dec 17 | `MTSU vs TOL`  | `TOL -10.5` | `score` | ❌ | `-1u` |
 | Dec 17 | `NIU vs CCU`   | `NIU +10.5` | `score` | ❌ | `-1u` |
 | Dec 18 | `WKU vs APP`   | `WKU +2.5` | `score` | ❌ | `-1u` |
