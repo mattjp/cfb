@@ -8,14 +8,14 @@
 
 |          | Total | Correct | % Correct | Return  |
 | :------- | :---: | :-----: | :-------: | :----:  |
-| **All**  | 180   | 99      | 55.0%     | `+6.6u` |
+| **All**  | 181   | 99      | 54.7%     | `+5.6u` |
 | **B1G**  | 105   | 59      | 56.2%     | `+5.7u` |
 
 ### Regular Season
 
 |          | Total | Correct | % Correct | Return  |
 | :------- | :---: | :-----: | :-------: | :----:  |
-| **All**  | 180   | 99      | 55.0%     | `+6.6u` |
+| **All**  | 181   | 99      | 54.7%     | `+5.6u` |
 | **B1G**  | 105   | 59      | 56.2%     | `+5.7u` |
 
 ### Bowls
@@ -380,7 +380,7 @@
 
 | Game | Point Spread | Final Score | Status | Payout |
 | :--- | :----------- | :---------: | :----: | :----: |
-| `ARMY vs NAVY` | `NAVY +7 @ -103` | `score` | ❌ | `-1u` |
+| `ARMY vs NAVY` | `NAVY +7 @ -103` | `NAVY 17, ARMY 13` | ❌ | `-1u` |
 
 |          | Total | Correct | % Correct | Return  |
 | :------- | :---: | :-----: | :-------: | :----:  |
@@ -391,13 +391,14 @@
 
 | Date | Game | Point Spread | Final Score | Status | Payout |
 | :--- | :--- | :----------- | :---------: | :----: | :----: |
-| Dec 17 | `MTSU vs TOL`  | `TOL -10.5` | `score` | ❌ | `-1u` |
-| Dec 17 | `NIU vs CCU`   | `NIU +10.5` | `score` | ❌ | `-1u` |
-| Dec 18 | `WKU vs APP`   | `WKU +2.5` | `score` | ❌ | `-1u` |
-| Dec 18 | `UAB vs BYU`   | `BYU -7` | `score` | ❌ | `-1u` |
-| Dec 18 | `EMU vs LIB`   | `EMU +9` | `score` | ❌ | `-1u` |
-| Dec 18 | `OSU vs USU`   | `USU +7` | `score` | ❌ | `-1u` |
-| Dec 18 | `ULL vs MRSH`  | `ULL -5.5` | `score` | ❌ | `-1u` |
+| Dec 17 | `MTSU vs TOL`  | `TOL -10 @ -108`    | `score` | ❌ | `-1u` |
+| Dec 17 | `NIU vs CCU`   | `CCU -10.5 @ -108`  | `score` | ❌ | `-1u` |
+| Dec 18 | `WKU vs APP`   | `APP -3 @ -108`     | `score` | ❌ | `-1u` |
+| Dec 18 | `UTEP vs FRES` | `UTEP +11.5 @ -108` | `score` | ❌ | `-1u` |
+| Dec 18 | `UAB vs BYU`   | `BYU -6.5 @ -118`   | `score` | ❌ | `-1u` |
+| Dec 18 | `EMU vs LIB`   | `LIB -9.5 @ -108`   | `score` | ❌ | `-1u` |
+| Dec 18 | `OSU vs USU`   | `USU +7 @ +102`     | `score` | ❌ | `-1u` |
+| Dec 18 | `ULL vs MRSH`  | `ULL -4.5 @ -108`   | `score` | ❌ | `-1u` |
 | Dec 21 | `KSU vs WYM`   | `KSU +3` | `score` | ❌ | `-1u` |
 | Dec 21 | `UTSA vs SDSU` | `UTSA -2.5` | `score` | ❌ | `-1u` |
 | Dec 23 | `UCF vs UF`    | `UCF +7` | `score` | ❌ | `-1u` |
@@ -405,8 +406,8 @@
 | Dec x | `game` | `spread` | `score` | ❌ | `-1u` |
 | Dec x | `game` | `spread` | `score` | ❌ | `-1u` |
 | Dec x | `game` | `spread` | `score` | ❌ | `-1u` |
-| Dec 31 | `CIN vs AL`    | `CIN +13.5 @ -108` | `spread` | `score` | ❌ | `-1u` |
-| Dec 31 | `UGA vs MICH`  | `MICH +8 @ -110` | `spread` | `score` | ❌ | `-1u` |
+| Dec 31 | `CIN vs AL`    | `CIN +13.5 @ -108`  | `score` | ❌ | `-1u` |
+| Dec 31 | `UGA vs MICH`  | `MICH +8 @ -110`    | `score` | ❌ | `-1u` |
 
 |          | Total | Correct | % Correct | Return  |
 | :------- | :---: | :-----: | :-------: | :----:  |
