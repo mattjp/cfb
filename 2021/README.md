@@ -391,19 +391,21 @@
 
 | Date | Game | Point Spread | Final Score | Status | Payout |
 | :--- | :--- | :----------- | :---------: | :----: | :----: |
-| Dec 17 | `MTSU vs TOL`  | `TOL -10 @ -108`    | `score` | ❌ | `-1u` |
-| Dec 17 | `NIU vs CCU`   | `CCU -10.5 @ -108`  | `score` | ❌ | `-1u` |
-| Dec 18 | `WKU vs APP`   | `APP -3 @ -108`     | `score` | ❌ | `-1u` |
-| Dec 18 | `UTEP vs FRES` | `UTEP +11.5 @ -108` | `score` | ❌ | `-1u` |
-| Dec 18 | `UAB vs BYU`   | `BYU -6.5 @ -118`   | `score` | ❌ | `-1u` |
-| Dec 18 | `EMU vs LIB`   | `LIB -9.5 @ -108`   | `score` | ❌ | `-1u` |
-| Dec 18 | `OSU vs USU`   | `USU +7 @ +102`     | `score` | ❌ | `-1u` |
-| Dec 18 | `ULL vs MRSH`  | `ULL -4.5 @ -108`   | `score` | ❌ | `-1u` |
-| Dec 21 | `KSU vs WYM`   | `KSU +3` | `score` | ❌ | `-1u` |
-| Dec 21 | `UTSA vs SDSU` | `UTSA -2.5` | `score` | ❌ | `-1u` |
-| Dec 23 | `UCF vs UF`    | `UCF +7` | `score` | ❌ | `-1u` |
-| Dec x | `game` | `spread` | `score` | ❌ | `-1u` |
-| Dec x | `game` | `spread` | `score` | ❌ | `-1u` |
+| Dec 17 | `MTSU vs TOL`  | `TOL -10 @ -108`    | `MTSU 31, TOL 24`  | ❌ | `-1u`   |
+| Dec 17 | `NIU vs CCU`   | `CCU -10.5 @ -108`  | `NIU 41, CCU 47`   | ❌ | `-1u`   |
+| Dec 18 | `WKU vs APP`   | `APP -3 @ -108`     | `WKU 59, APP 38`   | ❌ | `-1u`   |
+| Dec 18 | `UTEP vs FRES` | `UTEP +11.5 @ -108` | `UTEP 24, FRES 31` | ✅ | `+0.9u` |
+| Dec 18 | `UAB vs BYU`   | `BYU -6.5 @ -118`   | `UAB 31, BYU 28`   | ❌ | `-1u`   |
+| Dec 18 | `EMU vs LIB`   | `LIB -9.5 @ -108`   | `EMU 20, LIB 56`   | ✅ | `+0.9u` |
+| Dec 18 | `OSU vs USU`   | `USU +7 @ +102`     | `OSU 13, USU 24`   | ✅ | `+1u`   |
+| Dec 18 | `ULL vs MRSH`  | `ULL -4.5 @ -108`   | `ULL 36, MRSH 21`  | ✅ | `+0.9u` |
+| Dec 21 | `KSU vs WYM`   | `KSU +3.5 @ -116`   | `score` | ❌ | `-1u` |
+| Dec 21 | `UTSA vs SDSU` | `UTSA +2.5 @ -106`  | `score` | ❌ | `-1u` |
+| Dec 22 | `MIZZ vs ARMY` | `ARMY -4 @ -103`    | `score` | ❌ | `-1u` |
+| Dec 23 | `MIA vs UNT`   | `UNT +2.5 @ +102`   | `score` | ❌ | `-1u` |
+| Dec 23 | `UCF vs UF`    | `UCF +6.5 @ -109`   | `score` | ❌ | `-1u` |
+| Dec 24 | `MEM vs UH`    | `MEM -8.5 @ -109`   | `score` | ❌ | `-1u` |
+| Dec 25 | `BSU vs GSU`   | `GSU -5 @ -110`     | `score` | ❌ | `-1u` |
 | Dec x | `game` | `spread` | `score` | ❌ | `-1u` |
 | Dec x | `game` | `spread` | `score` | ❌ | `-1u` |
 | Dec 31 | `CIN vs AL`    | `CIN +13.5 @ -108`  | `score` | ❌ | `-1u` |
