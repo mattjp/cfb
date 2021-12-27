@@ -399,17 +399,33 @@
 | Dec 18 | `EMU vs LIB`   | `LIB -9.5 @ -108`   | `EMU 20, LIB 56`   | ✅ | `+0.9u` |
 | Dec 18 | `OSU vs USU`   | `USU +7 @ +102`     | `OSU 13, USU 24`   | ✅ | `+1u`   |
 | Dec 18 | `ULL vs MRSH`  | `ULL -4.5 @ -108`   | `ULL 36, MRSH 21`  | ✅ | `+0.9u` |
-| Dec 21 | `KSU vs WYM`   | `KSU +3.5 @ -116`   | `score` | ❌ | `-1u` |
-| Dec 21 | `UTSA vs SDSU` | `UTSA +2.5 @ -106`  | `score` | ❌ | `-1u` |
-| Dec 22 | `MIZZ vs ARMY` | `ARMY -4 @ -103`    | `score` | ❌ | `-1u` |
-| Dec 23 | `MIA vs UNT`   | `UNT +2.5 @ +102`   | `score` | ❌ | `-1u` |
-| Dec 23 | `UCF vs UF`    | `UCF +6.5 @ -109`   | `score` | ❌ | `-1u` |
-| Dec 24 | `MEM vs UH`    | `MEM -8.5 @ -109`   | `score` | ❌ | `-1u` |
-| Dec 25 | `BSU vs GSU`   | `GSU -5 @ -110`     | `score` | ❌ | `-1u` |
-| Dec x | `game` | `spread` | `score` | ❌ | `-1u` |
-| Dec x | `game` | `spread` | `score` | ❌ | `-1u` |
+| Dec 21 | `KSU vs WYM`   | `KSU +3.5 @ -116`   | `KSU 38, WYM 52`   | ❌ | `-1u`   |
+| Dec 21 | `UTSA vs SDSU` | `UTSA +2.5 @ -106`  | `UTSA 24, SDSU 38` | ❌ | `-1u`   |
+| Dec 22 | `MIZZ vs ARMY` | `ARMY -4 @ -103`    | `MIZZ 22, ARMY 24` | ❌ | `-1u`   |
+| Dec 23 | `MIA vs UNT`   | `UNT +2.5 @ +102`   | `UNT 14, MIA 27`   | ❌ | `-1u`   |
+| Dec 23 | `UCF vs UF`    | `UCF +6.5 @ -109`   | `UCF 29, UF 17`    | ✅ | `+0.9u` |
+| Dec 25 | `BSU vs GSU`   | `GSU -5 @ -110`     | `BSU 20, GSU 51`   | ✅ | `+0.9u` |
+| Dec 27 | `WMU vs NEV`   | `NEV +7 @ -105`     | `score` | ❌ | `-1u` |
+| Dec 28 | `HOU vs AUB`   | `HOU +2 @ -109`     | `score` | ❌ | `-1u` |
+| Dec 28 | `LOU vs AF`    | `LOU -1 @ -109`     | `score` | ❌ | `-1u` |
+| Dec 28 | `TTU vs MSST`  | `MSST -10 @ -103`   | `score` | ❌ | `-1u` |
+| Dec 28 | `WVU vs MINN`  | `MINN -5 @ -105`    | `score` | ❌ | `-1u` |
+| Dec 29 | `UMD vs VT`    | `VT +3.5 @ -114`    | `score` | ❌ | `-1u` |
+| Dec 29 | `ISU vs CLEM`  | `ISU +2 @ -108`     | `score` | ❌ | `-1u` |
+| Dec 29 | `UO vs OU`     | `OU -4.5 @ -108`    | `score` | ❌ | `-1u` |
+| Dec 29 | `UNC vs USC`   | `UNC -9 @ -108`     | `score` | ❌ | `-1u` |
+| Dec 30 | `PUR vs UT`    | `UT -5.5 @ -109`    | `score` | ❌ | `-1u` |
+| Dec 30 | `PITT vs MSU`  | `PITT +2.5 @ -106`  | `score` | ❌ | `-1u` |
+| Dec 30 | `ASU vs WISC`  | `WISC -5.5 @ -110`  | `score` | ❌ | `-1u` |
+| Dec 31 | `BSU vs CMU`   | `BSU -7.5 @ -106`   | `score` | ❌ | `-1u` |
 | Dec 31 | `CIN vs AL`    | `CIN +13.5 @ -108`  | `score` | ❌ | `-1u` |
 | Dec 31 | `UGA vs MICH`  | `MICH +8 @ -110`    | `score` | ❌ | `-1u` |
+| Jan 1  | `ARK vs PSU`   | `ARK +1 @ -105`     | `score` | ❌ | `-1u` |
+| Jan 1  | `UK vs IOWA`   | `UK -3 @ -102`      | `score` | ❌ | `-1u` |
+| Jan 1  | `OKST vs ND`   | `OKST +2.5 @ -105`  | `score` | ❌ | `-1u` |
+| Jan 1  | `UTAH vs OSU`  | `UTAH +6.5 @ -109`  | `score` | ❌ | `-1u` |
+| Jan 1  | `BU vs MISS`   | `MISS -1 @ -109`    | `score` | ❌ | `-1u` |
+| Jan 4  | `LSU vs KSU`   | `LSU +3.5 @ -109`   | `score` | ❌ | `-1u` |
 
 |          | Total | Correct | % Correct | Return  |
 | :------- | :---: | :-----: | :-------: | :----:  |
