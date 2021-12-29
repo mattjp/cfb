@@ -407,9 +407,9 @@
 | Dec 25 | `BSU vs GSU`   | `GSU -5 @ -110`     | `BSU 20, GSU 51`   | ✅ | `+0.9u` |
 | Dec 27 | `WMU vs NEV`   | `NEV +7 @ -105`     | `WMU 52, NEV 24`   | ❌ | `-1u`   |
 | Dec 28 | `HOU vs AUB`   | `HOU +2 @ -109`     | `HOU 17, AUB 13`   | ✅ | `+0.9u` |
-| Dec 28 | `LOU vs AF`    | `LOU -1 @ -109`     | `score` | ❌ | `-1u` |
-| Dec 28 | `TTU vs MSST`  | `MSST -10 @ -103`   | `score` | ❌ | `-1u` |
-| Dec 28 | `WVU vs MINN`  | `MINN -5 @ -105`    | `score` | ❌ | `-1u` |
+| Dec 28 | `LOU vs AF`    | `LOU -1 @ -109`     | `LOU 28, AF 31`    | ❌ | `-1u`   |
+| Dec 28 | `TTU vs MSST`  | `MSST -10 @ -103`   | `TTU 34, MSST 7`   | ❌ | `-1u`   |
+| Dec 28 | `WVU vs MINN`  | `MINN -5 @ -105`    | `WVU 6, MINN 18`   | ✅ | `+1u`   |
 | Dec 29 | `UMD vs VT`    | `VT +3.5 @ -114`    | `score` | ❌ | `-1u` |
 | Dec 29 | `ISU vs CLEM`  | `ISU +2 @ -108`     | `score` | ❌ | `-1u` |
 | Dec 29 | `UO vs OU`     | `OU -4.5 @ -108`    | `score` | ❌ | `-1u` |
