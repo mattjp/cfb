@@ -4,13 +4,6 @@
 
 ## Payouts
 
-### Total
-
-|          | Total | Correct | % Correct | Return  |
-| :------- | :---: | :-----: | :-------: | :----:  |
-| **All**  | 181   | 99      | 54.7%     | `+5.6u` |
-| **B1G**  | 105   | 59      | 56.2%     | `+5.7u` |
-
 ### Regular Season
 
 |          | Total | Correct | % Correct | Return  |
@@ -413,10 +406,10 @@
 | Dec 29 | `UMD vs VT`    | `VT +3.5 @ -114`    | `MD 54, VT 10`     | ❌ | `-1u`   |
 | Dec 29 | `ISU vs CLEM`  | `ISU +2 @ -108`     | `ISU 13, CLEM 20`  | ❌ | `-1u`   |
 | Dec 29 | `UO vs OU`     | `OU -4.5 @ -108`    | `UO 32, OU 47`     | ✅ | `+0.9u` |
-| Dec 30 | `UNC vs SCAR`  | `UNC -9 @ -108`     | `score` | ❌ | `-1u` |
-| Dec 30 | `PUR vs UT`    | `UT -5.5 @ -109`    | `score` | ❌ | `-1u` |
-| Dec 30 | `PITT vs MSU`  | `PITT +2.5 @ -106`  | `score` | ❌ | `-1u` |
-| Dec 30 | `ASU vs WISC`  | `WISC -5.5 @ -110`  | `score` | ❌ | `-1u` |
+| Dec 30 | `UNC vs SCAR`  | `UNC -9 @ -108`     | `UNC 21, SCAR 38`  | ❌ | `-1u`   |
+| Dec 30 | `PUR vs UT`    | `UT -5.5 @ -109`    | `PUR 48, UT 45`    | ❌ | `-1u`   |
+| Dec 30 | `PITT vs MSU`  | `PITT +2.5 @ -106`  | `PITT 21, MSU 31`  | ❌ | `-1u`   |
+| Dec 30 | `ASU vs WISC`  | `WISC -5.5 @ -110`  | `ASU 13, WISC 20`  | ✅ | `+0.9u` |
 | Dec 31 | `RUT vs WF`    | `RUT +15.5 @ -108`  | `score` | ❌ | `-1u` |
 | Dec 31 | `CMU vs WSU`   | `CMU +7 @ -108`     | `score` | ❌ | `-1u` |
 | Dec 31 | `CIN vs AL`    | `CIN +13.5 @ -108`  | `score` | ❌ | `-1u` |
