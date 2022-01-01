@@ -410,10 +410,10 @@
 | Dec 30 | `PUR vs UT`    | `UT -5.5 @ -109`    | `PUR 48, UT 45`    | ❌ | `-1u`   |
 | Dec 30 | `PITT vs MSU`  | `PITT +2.5 @ -106`  | `PITT 21, MSU 31`  | ❌ | `-1u`   |
 | Dec 30 | `ASU vs WISC`  | `WISC -5.5 @ -110`  | `ASU 13, WISC 20`  | ✅ | `+0.9u` |
-| Dec 31 | `RUT vs WF`    | `RUT +15.5 @ -108`  | `score` | ❌ | `-1u` |
-| Dec 31 | `CMU vs WSU`   | `CMU +7 @ -108`     | `score` | ❌ | `-1u` |
-| Dec 31 | `CIN vs AL`    | `CIN +13.5 @ -108`  | `score` | ❌ | `-1u` |
-| Dec 31 | `UGA vs MICH`  | `MICH +8 @ -110`    | `score` | ❌ | `-1u` |
+| Dec 31 | `RUT vs WF`    | `RUT +15.5 @ -108`  | `RUT 10, WF 38`    | ❌ | `-1u`   |
+| Dec 31 | `CMU vs WSU`   | `CMU +7 @ -108`     | `CMU 24, WSU 21`   | ✅ | `+0.9u` |
+| Dec 31 | `CIN vs AL`    | `CIN +13.5 @ -108`  | `CIN 6, AL 27`     | ❌ | `-1u`   |
+| Dec 31 | `UGA vs MICH`  | `MICH +8 @ -110`    | `UGA 34, MICH 11`  | ❌ | `-1u`   |
 | Jan 1  | `ARK vs PSU`   | `ARK +1 @ -105`     | `score` | ❌ | `-1u` |
 | Jan 1  | `UK vs IOWA`   | `UK -3 @ -102`      | `score` | ❌ | `-1u` |
 | Jan 1  | `OKST vs ND`   | `OKST +2.5 @ -105`  | `score` | ❌ | `-1u` |
