@@ -15,8 +15,8 @@
 
 |          | Total | Correct | % Correct | Return  |
 | :------- | :---: | :-----: | :-------: | :----:  |
-| **All**  | 0     | 0       | 0.0%      | `+0u`   |
-| **B1G**  | 0     | 0       | 0.0%      | `+0u`   |
+| **All**  | 37    | 13      | 35.1%     | `-11.9u` |
+| **B1G**  | 9     | 4       | 44.4%     | `-2.1u`  |
 
 ## Futures
 
@@ -414,14 +414,15 @@
 | Dec 31 | `CMU vs WSU`   | `CMU +7 @ -108`     | `CMU 24, WSU 21`   | ✅ | `+0.9u` |
 | Dec 31 | `CIN vs AL`    | `CIN +13.5 @ -108`  | `CIN 6, AL 27`     | ❌ | `-1u`   |
 | Dec 31 | `UGA vs MICH`  | `MICH +8 @ -110`    | `UGA 34, MICH 11`  | ❌ | `-1u`   |
-| Jan 1  | `ARK vs PSU`   | `ARK +1 @ -105`     | `score` | ❌ | `-1u` |
-| Jan 1  | `UK vs IOWA`   | `UK -3 @ -102`      | `score` | ❌ | `-1u` |
-| Jan 1  | `OKST vs ND`   | `OKST +2.5 @ -105`  | `score` | ❌ | `-1u` |
-| Jan 1  | `UTAH vs OSU`  | `UTAH +6.5 @ -109`  | `score` | ❌ | `-1u` |
-| Jan 1  | `BU vs MISS`   | `MISS -1 @ -109`    | `score` | ❌ | `-1u` |
-| Jan 4  | `LSU vs KSU`   | `LSU +3.5 @ -109`   | `score` | ❌ | `-1u` |
+| Jan 1  | `ARK vs PSU`   | `ARK +1 @ -105`     | `ARK 24, PSU 10`   | ✅ | `+1u`   |
+| Jan 1  | `UK vs IOWA`   | `UK -3 @ -102`      | `UK 20, IOWA 17`   | ✋ | `0u`    |
+| Jan 1  | `OKST vs ND`   | `OKST +2.5 @ -105`  | `OKST 37, ND 35`   | ❌ | `-1u`   |
+| Jan 1  | `UTAH vs OSU`  | `UTAH +6.5 @ -109`  | `UTAH 45, OSU 48`  | ❌ | `-1u`   |
+| Jan 1  | `BU vs MISS`   | `MISS -1 @ -109`    | `BU 21, MISS 7`    | ❌ | `-1u`   |
+| Jan 4  | `LSU vs KSU`   | `LSU +3.5 @ -109`   | `LSU 20, KSU 42`   | ❌ | `-1u`   |
+| Jan 10 | `UGA vs AL`    | `AL +3 @ -119`      | `score` | ❌ | `-1u` |
 
 |          | Total | Correct | % Correct | Return  |
 | :------- | :---: | :-----: | :-------: | :----:  |
-| **All**  | 0     | 0       | 0.0%      | `+0u`   |
-| **B1G**  | 0     | 0       | 0.0%      | `+0u`   |
+| **All**  | 37    | 13      | 35.1%     | `-11.9u` |
+| **B1G**  | 9     | 4       | 44.4%     | `-2.1u`  |
